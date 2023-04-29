@@ -1,376 +1,115 @@
-# Stress bei Bäumen 
+# Stress bei Bäumen
 
-Um die Reaktionen eines Organismus in einer bestimmten Situation zu 
-verstehen, betrachtet man die Einflüsse der Umwelt meistens getrennt 
-voneinander als sogenannte Umweltfaktoren. Sonneneinstrahlung, 
-Wasserversorgung oder Luftfeuchte sind Beispiele für abiotische Umweltfaktoren, 
-Pilzinfektionen oder Insektenfraß sind solche für biotische 
-Umweltfaktoren. Für einen Baum sind selten alle Umweltfaktoren 
-im Optimalbereich. In der Stadt beeinträchtigen oft Sauerstoff- und 
-Wassermangel, aber auch Frost, Hitze oder Streusalz die Leistungsfähigkeit 
-der Bäume zeitweise oder dauerhaft. Dabei kann beispielsweise 
-das Wachstum vermindert werden oder die Fortpflanzungsfähigkeit 
-wird eingeschränkt. 
+Um die Reaktionen eines Organismus in einer bestimmten Situation zu verstehen, betrachtet man die Einflüsse der Umwelt meistens getrennt voneinander als sogenannte Umweltfaktoren. Sonneneinstrahlung, Wasserversorgung oder Luftfeuchte sind Beispiele für abiotische Umweltfaktoren, Pilzinfektionen oder Insektenfraß sind solche für biotische Umweltfaktoren. Für einen Baum sind selten alle Umweltfaktoren im Optimalbereich. In der Stadt beeinträchtigen oft Sauerstoff- und Wassermangel, aber auch Frost, Hitze oder Streusalz die Leistungsfähigkeit der Bäume zeitweise oder dauerhaft. Dabei kann beispielsweise das Wachstum vermindert werden oder die Fortpflanzungsfähigkeit wird eingeschränkt.
 
-Solche Belastungssituationen, die in einem Organismus Abweichungen 
-vom Normalverhalten auslösen, nennt man Stress (Larcher 2001). 
-Wörtlich bedeutet „Stress“ Zwangslage oder Bedrängnis, auf Englisch 
-benennt „stress“ in der Physik die inneren Spannungen, die beim Einwirken 
-einer äußeren Kraft auftreten. Ebenfalls aus der Physik wurde 
-der englische Begriff „strain“ übernommen, der die Verformung eines 
-Körpers aufgrund einer äußeren Kraft bezeichnet. 
+Solche Belastungssituationen, die in einem Organismus Abweichungen vom Normalverhalten auslösen, nennt man Stress (Larcher 2001). Wörtlich bedeutet „Stress" Zwangslage oder Bedrängnis, auf Englisch benennt „stress" in der Physik die inneren Spannungen, die beim Einwirken einer äußeren Kraft auftreten. Ebenfalls aus der Physik wurde der englische Begriff „strain" übernommen, der die Verformung eines Körpers aufgrund einer äußeren Kraft bezeichnet.
 
-In der Biologie bezeichnet Stress einen Anspannungszustand des 
-Organismus; der Belastungsfaktor wird ,,Stressor“ genannt. Umgangssprachlich wird Stress allerdings sowohl für die Belastungssituation 
-verwendet, als auch für den Zustand, der sich daraufhin in der Pflanze 
-einstellt. 
+In der Biologie bezeichnet Stress einen Anspannungszustand des Organismus; der Belastungsfaktor wird ,,Stressor" genannt. Umgangssprachlich wird Stress allerdings sowohl für die Belastungssituation verwendet, als auch für den Zustand, der sich daraufhin in der Pflanze einstellt.
 
-Ein Umweltfaktor wird dann zum Stressor oder Stressfaktor, wenn 
-seine Dosis nicht im Optimalbereich ist, weshalb prinzipiell alle Faktoren 
-zum Stressor werden können. Dies kann sowohl beim Über- als 
-auch beim Unterschreiten der optimalen Dosis geschehen. Da Pflanzen 
-an ihren Standort gebunden sind und einem Stressor nicht durch Fortbewegung 
-ausweichen können, haben sie umfangreiche Mechanismen 
-zur Reaktion auf Stress entwickelt. 
+Ein Umweltfaktor wird dann zum Stressor oder Stressfaktor, wenn seine Dosis nicht im Optimalbereich ist, weshalb prinzipiell alle Faktoren zum Stressor werden können. Dies kann sowohl beim Über- als auch beim Unterschreiten der optimalen Dosis geschehen. Da Pflanzen an ihren Standort gebunden sind und einem Stressor nicht durch Fortbewegung ausweichen können, haben sie umfangreiche Mechanismen zur Reaktion auf Stress entwickelt.
 
-## Das biologische Stresskonzept 
-Das biologische Stresskonzept beschreibt die Reaktionen eines Organismus, 
-wenn er sich so weit von seinen optimalen Lebensbedingungen 
-entfernt, dass sich sein physiologischer Zustand nicht nur quantitativ, 
-sondern auch qualitativ ändert. Diese Veränderungen und Reaktionen, 
-die auf allen Funktionsebenen des Organismus auftreten können, sind 
-zunächst nur vorübergehend, können aber bei zu großer Dauer oder 
-Stärke der Beeinträchtigung dauerhaft werden. 
+## Das biologische Stresskonzept
 
-Die Einwirkung von Stressoren löst stressorspezifische und unspezifische 
-Reaktionen aus. Unspezifisch sind solche Vorgänge, die unabhängig 
-von der Art des Stressfaktors immer in gleicher Weise ablaufen. 
-Die Abfolge dieser unspezifischen Vorgänge kann, stark vereinfacht, 
-durch vier Phasen beschrieben werden (Abb. 2.42, Larcher 2001): 
-Alarmphase – Nach Einsetzen einer Störung kommt es zu einer Destabilisierung 
-der normalen Lebenstätigkeit. Eine zu schnelle Steigerung 
-der Belastung führt zum Zusammenbruch, bevor Abwehrmaßnahmen 
-ergriffen werden können. Sonst werden Schutz- und Reparaturprozesse 
-eingeleitet (Restitution). 
-Widerstandsphase – Bei anhaltender Belastung kann durch Anpassungsvorgänge 
-zunächst das Normalverhalten wieder hergestellt und 
-dann die Widerstandskraft gesteigert werden (Abhärtung). Trotz anhaltender 
-Belastung kann eine Normalisierung erreicht werden. Nach 
+Das biologische Stresskonzept beschreibt die Reaktionen eines Organismus, wenn er sich so weit von seinen optimalen Lebensbedingungen entfernt, dass sich sein physiologischer Zustand nicht nur quantitativ, sondern auch qualitativ ändert. Diese Veränderungen und Reaktionen, die auf allen Funktionsebenen des Organismus auftreten können, sind zunächst nur vorübergehend, können aber bei zu großer Dauer oder Stärke der Beeinträchtigung dauerhaft werden.
 
-Abb. 2.42 Phasenmodell 
-des Stressgeschehens 
-(nach 
-LARCHER 2001). 
+Die Einwirkung von Stressoren löst stressorspezifische und unspezifische Reaktionen aus. Unspezifisch sind solche Vorgänge, die unabhängig von der Art des Stressfaktors immer in gleicher Weise ablaufen. Die Abfolge dieser unspezifischen Vorgänge kann, stark vereinfacht, durch vier Phasen beschrieben werden (Abb. 2.42, Larcher 2001): Alarmphase -- Nach Einsetzen einer Störung kommt es zu einer Destabilisierung der normalen Lebenstätigkeit. Eine zu schnelle Steigerung der Belastung führt zum Zusammenbruch, bevor Abwehrmaßnahmen ergriffen werden können. Sonst werden Schutz- und Reparaturprozesse eingeleitet (Restitution). Widerstandsphase -- Bei anhaltender Belastung kann durch Anpassungsvorgänge zunächst das Normalverhalten wieder hergestellt und dann die Widerstandskraft gesteigert werden (Abhärtung). Trotz anhaltender Belastung kann eine Normalisierung erreicht werden. Nach
 
-dem Nachlassen der Störung kann die Widerstandskraft eine Zeit lang 
-erhöht bleiben. 
-Erschöpfungsphase – Nach Überforderung des Anpassungsvermögens 
-durch zu lange Beanspruchungsdauer kann es zum Zusammenbruch 
-kommen. Die Pflanze ist in dieser Phase auch gegen andere Stressoren 
-anfälliger, z. B. Schwächeparasiten. 
-Regenerationsphase – Auch aus der Erschöpfungsphase kann die Pflanze 
-noch zur Ausgangslage zurückkehren, wenn der Belastungszustand 
-aufgehoben wird. 
+Abb. 2.42 Phasenmodell des Stressgeschehens (nach LARCHER 2001).
 
-Stress ist demnach ein Beanspruchungszustand des Organismus, der zunächst 
-Destabilisierung, dann Normalisierung und Resistenzsteigerung 
-bewirkt und der bei Überschreitung der Anpassungsamplitude zu Funktionsausfällen 
-und zum Tod führen kann. Dabei muss Stress nicht immer 
-negativ sein, sondern kann auch dazu führen, dass ein Baum an zukünftige 
-Belastungen besser angepasst ist (Eustress im Gegensatz zu Distress). 
-Diese Abhärtung wirkt manchmal nicht nur gegen den Umweltfaktor, der 
-sie ursprünglich ausgelöst hat, sondern auch andere, ein Phänomen, das 
-als „cross-protection“ bezeichnet wird (Schulze et al. 2002). 
+dem Nachlassen der Störung kann die Widerstandskraft eine Zeit lang erhöht bleiben. Erschöpfungsphase -- Nach Überforderung des Anpassungsvermögens durch zu lange Beanspruchungsdauer kann es zum Zusammenbruch kommen. Die Pflanze ist in dieser Phase auch gegen andere Stressoren anfälliger, z. B. Schwächeparasiten. Regenerationsphase -- Auch aus der Erschöpfungsphase kann die Pflanze noch zur Ausgangslage zurückkehren, wenn der Belastungszustand aufgehoben wird.
 
-2.8.2 Stressfaktoren in der Stadt 
-Nachfolgend werden einige der wichtigsten Stressoren in der Stadt und 
-ihre Auswirkungen auf Bäume beschrieben: Trockenheit, Sauerstoffmangel 
-und Salz. 
+Stress ist demnach ein Beanspruchungszustand des Organismus, der zunächst Destabilisierung, dann Normalisierung und Resistenzsteigerung bewirkt und der bei Überschreitung der Anpassungsamplitude zu Funktionsausfällen und zum Tod führen kann. Dabei muss Stress nicht immer negativ sein, sondern kann auch dazu führen, dass ein Baum an zukünftige Belastungen besser angepasst ist (Eustress im Gegensatz zu Distress). Diese Abhärtung wirkt manchmal nicht nur gegen den Umweltfaktor, der sie ursprünglich ausgelöst hat, sondern auch andere, ein Phänomen, das als „cross-protection" bezeichnet wird (Schulze et al. 2002).
 
-### Trockenstress, eines der häufigsten Probleme 
-Trockenheit ist weltweit einer der häufigsten Stressoren für Bäume. 
-Trockenstress schadet nicht nur direkt, sondern macht Bäume auch 
-für andere Schadfaktoren wie Insekten oder Pilze anfälliger. Die Reaktionen 
-auf Trockenstress sind vielfältig: Kurzfristig wird vor allem die 
-Wasserabgabe verringert, während mittel- und langfristig die hydraulische 
-Architektur optimiert wird. 
+## Stressfaktoren in der Stadt
 
-#### Kurzfristige Reaktionen 
+Nachfolgend werden einige der wichtigsten Stressoren in der Stadt und ihre Auswirkungen auf Bäume beschrieben: Trockenheit, Sauerstoffmangel und Salz.
 
-Wenn der Boden austrocknet, dann sinken seine hydraulische Leitfähigkeit 
-und sein Wasserpotenzial. Um die weitere Wasseraufnahme 
-durch die Wurzel zu gewährleisten, muss das Wasserpotenzial von der 
-Wurzel bis in die Blätter des Baumes ebenfalls sinken. Dabei muss ein 
-Gradient bis in die Baumkrone aufrechterhalten werden (vgl. Kap. 2.7). 
-Das Xylemwasserpotenzial darf aber einen in der Regel art- oder sortenspezifischen 
-Schwellenwert nicht unterschreiten, weil sonst die Gefahr 
-für die Entstehung von Gasblasen in den Tracheen und Tracheiden 
-(Embolien) zu stark steigt (Tyree und Sperry 1988). 
+### Trockenstress, eines der häufigsten Probleme
 
-Um die Wasserabgabe zu drosseln und damit das weitere Absinken 
-des Wasserpotenzials zu bremsen, können die Spaltöffnungen geschlossen 
-werden. Damit wird allerdings auch die Aufnahme von Kohlendioxid verhindert: Der Baum beginnt zu hungern. Da durch das Schließen 
-der Spaltöffnungen der Wasserverlust nicht vollständig verhindert 
-werden kann, führt länger andauernder Wassermangel zu Schäden an 
-den Blättern, die sich dann einrollen und zum Teil abgeworfen werden. 
-Zahlreiche Prozesse und Eigenschaften werden durch Trockenheit negativ 
-beeinflusst (Hsiao 1973): z. B. Zellwachstum, Zellwandsynthese, 
-Photosynthese oder Xylemleitfähigkeit. 
+Trockenheit ist weltweit einer der häufigsten Stressoren für Bäume. Trockenstress schadet nicht nur direkt, sondern macht Bäume auch für andere Schadfaktoren wie Insekten oder Pilze anfälliger. Die Reaktionen auf Trockenstress sind vielfältig: Kurzfristig wird vor allem die Wasserabgabe verringert, während mittel- und langfristig die hydraulische Architektur optimiert wird.
 
-Das im Stamm gespeicherte Wasser reicht in der Regel nur für einige 
-Tage, nicht jedoch um längere Trockenperioden zu überbrücken 
-(Holbrook 1995). Wichtig ist es allerdings für die Pufferung der am 
-Morgen beginnenden Transpiration, die das Wasser schneller aus dem 
-Stamm entnimmt, als es in die Wurzeln einströmen kann. 
+#### Kurzfristige Reaktionen
 
-#### Mittelfristige Reaktionen 
+Wenn der Boden austrocknet, dann sinken seine hydraulische Leitfähigkeit und sein Wasserpotenzial. Um die weitere Wasseraufnahme durch die Wurzel zu gewährleisten, muss das Wasserpotenzial von der Wurzel bis in die Blätter des Baumes ebenfalls sinken. Dabei muss ein Gradient bis in die Baumkrone aufrechterhalten werden (vgl. Kap. 2.7). Das Xylemwasserpotenzial darf aber einen in der Regel art- oder sortenspezifischen Schwellenwert nicht unterschreiten, weil sonst die Gefahr für die Entstehung von Gasblasen in den Tracheen und Tracheiden (Embolien) zu stark steigt (Tyree und Sperry 1988).
 
-Bei starkem und länger andauerndem Trockenstress wird die Wasserabgabe 
-durch die Verringerung der Blattfläche reduziert: Blätter werden 
-abgeworfen. Einige Baumarten (z. B. Eichen) können zudem auch ganze, 
-manchmal noch belaubte Zweige aktiv abgliedern (Abb. 2.43). Dadurch 
-wird die Blattfläche, die in der nächsten Vegetationsperiode angelegt 
-wird, ebenso vermindert wie durch Ausbildung kleinerer Blätter 
-für die einem Trockenjahr folgenden Jahre (Rust und Roloff 2004). 
+Um die Wasserabgabe zu drosseln und damit das weitere Absinken des Wasserpotenzials zu bremsen, können die Spaltöffnungen geschlossen werden. Damit wird allerdings auch die Aufnahme von Kohlendioxid verhindert: Der Baum beginnt zu hungern. Da durch das Schließen der Spaltöffnungen der Wasserverlust nicht vollständig verhindert werden kann, führt länger andauernder Wassermangel zu Schäden an den Blättern, die sich dann einrollen und zum Teil abgeworfen werden. Zahlreiche Prozesse und Eigenschaften werden durch Trockenheit negativ beeinflusst (Hsiao 1973): z. B. Zellwachstum, Zellwandsynthese, Photosynthese oder Xylemleitfähigkeit.
 
-Eine Verschiebung des Wurzel/Spross-Verhältnisses zugunsten der 
-Wurzel als Anpassung an Trockenheit ist übrigens experimentell nicht 
-eindeutig belegt (Reich 2002). 
+Das im Stamm gespeicherte Wasser reicht in der Regel nur für einige Tage, nicht jedoch um längere Trockenperioden zu überbrücken (Holbrook 1995). Wichtig ist es allerdings für die Pufferung der am Morgen beginnenden Transpiration, die das Wasser schneller aus dem Stamm entnimmt, als es in die Wurzeln einströmen kann.
 
-#### Langfristige Folgen 
+#### Mittelfristige Reaktionen
 
-Sowohl durch länger andauernden Spaltöffnungsschluss als auch durch 
-die Verringerung der Blattfläche werden der Dicken- und der Längen-
+Bei starkem und länger andauerndem Trockenstress wird die Wasserabgabe durch die Verringerung der Blattfläche reduziert: Blätter werden abgeworfen. Einige Baumarten (z. B. Eichen) können zudem auch ganze, manchmal noch belaubte Zweige aktiv abgliedern (Abb. 2.43). Dadurch wird die Blattfläche, die in der nächsten Vegetationsperiode angelegt wird, ebenso vermindert wie durch Ausbildung kleinerer Blätter für die einem Trockenjahr folgenden Jahre (Rust und Roloff 2004).
 
+Eine Verschiebung des Wurzel/Spross-Verhältnisses zugunsten der Wurzel als Anpassung an Trockenheit ist übrigens experimentell nicht eindeutig belegt (Reich 2002).
 
-Abb. 2.43 Belaubte 
-Zweigabsprünge 
-unter einer Eiche im 
-Frühjahr. 
+#### Langfristige Folgen
 
-zuwachs vermindert: Kurztriebe entstehen. Da diese Kurztriebe Wasser 
-schlechter leiten als Langtriebe (Rust und Hüttl 1999, Rust und Roloff 
-2002a, vgl. Kap. 2.7), steigt für die Folgejahre das Trockenstressrisiko 
-der Blätter an diesen Trieben, die dann ganz oder teilweise absterben 
-können. Der Zuwachs von Trieben und Stamm kann so nach einer 
-Trockenphase mehrere Jahre infolge beeinträchtigt sein. In England 
-hatte sich die Kronenstruktur von Buchen nach der Trockenheit 1990 
-noch nicht normalisiert, als bereits das nächste Trockenjahr 1995 folgte 
-(Stribley und Ashmore 2002). 
+Sowohl durch länger andauernden Spaltöffnungsschluss als auch durch die Verringerung der Blattfläche werden der Dicken- und der Längen-
 
-In den Jahren, die auf ein Trockenjahr folgen, kann die Sterblichkeit 
-der Bäume deutlich ansteigen. Ursache sind oft Schädlinge, die den 
-geschwächten Zustand der Bäume nutzen können, häufig ist aber auch 
-keine Ursache für das Absterben feststellbar. Als möglicher Grund wird 
-ein zu geringer Vorrat an Kohlenhydratreserven diskutiert (Bredá et al. 
-2006). 
+Abb. 2.43 Belaubte Zweigabsprünge unter einer Eiche im Frühjahr.
 
-#### Einschätzung der Trockenstressgefährdung eines Baumes an einem bestimmten Standort 
+zuwachs vermindert: Kurztriebe entstehen. Da diese Kurztriebe Wasser schlechter leiten als Langtriebe (Rust und Hüttl 1999, Rust und Roloff 2002a, vgl. Kap. 2.7), steigt für die Folgejahre das Trockenstressrisiko der Blätter an diesen Trieben, die dann ganz oder teilweise absterben können. Der Zuwachs von Trieben und Stamm kann so nach einer Trockenphase mehrere Jahre infolge beeinträchtigt sein. In England hatte sich die Kronenstruktur von Buchen nach der Trockenheit 1990 noch nicht normalisiert, als bereits das nächste Trockenjahr 1995 folgte (Stribley und Ashmore 2002).
 
-Die wichtigste Information ist wahrscheinlich, welches Klima im natürlichen 
-Herkunftsgebiet und an ihrem typischen Standort einer Baumart 
-oder Herkunft herrscht: An dieses wird die Baumart angepasst sein. 
-Arten aus der Mittelmeerregion sind mit großer Wahrscheinlichkeit an 
-periodische Trockenheit angepasst, während z. B. Arten, die auf grundwassernahen 
-Standorten heimisch sind, unter Umständen stark unter 
-Trockenheit leiden. Kleine, behaarte, dicke Blätter, die hell gefärbt 
-sind, beispielsweise durch einen dicken Wachsüberzug, können solche 
-Anpassungen an Trockenheit, die häufig schon äußerlich erkennbar 
-sind, sein. Auch Individuen können sich an trockene Standortsbedingungen 
-anpassen. Solche abgehärteten Pflanzen überstehen Trockenheit 
-deutlich besser. 
+In den Jahren, die auf ein Trockenjahr folgen, kann die Sterblichkeit der Bäume deutlich ansteigen. Ursache sind oft Schädlinge, die den geschwächten Zustand der Bäume nutzen können, häufig ist aber auch keine Ursache für das Absterben feststellbar. Als möglicher Grund wird ein zu geringer Vorrat an Kohlenhydratreserven diskutiert (Bredá et al. 2006).
 
-Entscheidende Standortscharakteristika sind der Bodenwasservorrat, 
-der sich aus dem durchwurzelbaren Bodenvolumen und den 
-Bodeneigenschaften ergibt, und der Transpirationsanspruch der Atmosphäre. 
-Windexponierte Standorte oder solche, an denen Gebäude 
-zusätzliche Energie in Richtung des Baumes strahlen, bewirken in der 
-Regel höhere Transpirationsraten. 
+#### Einschätzung der Trockenstressgefährdung eines Baumes an einem bestimmten Standort
 
-Schließlich muss die Gefährdung durch Schädlinge und Krankheiten, 
-die gestresste Individuen befallen, in Betracht gezogen werden. 
-Bekannte Beispiele sind das Sphaeropsis-Triebsterben der Kiefern und 
-das Botryosphaeria-Triebsterben des Mammutbaums (Kehr 2006). 
+Die wichtigste Information ist wahrscheinlich, welches Klima im natürlichen Herkunftsgebiet und an ihrem typischen Standort einer Baumart oder Herkunft herrscht: An dieses wird die Baumart angepasst sein. Arten aus der Mittelmeerregion sind mit großer Wahrscheinlichkeit an periodische Trockenheit angepasst, während z. B. Arten, die auf grundwassernahen Standorten heimisch sind, unter Umständen stark unter Trockenheit leiden. Kleine, behaarte, dicke Blätter, die hell gefärbt sind, beispielsweise durch einen dicken Wachsüberzug, können solche Anpassungen an Trockenheit, die häufig schon äußerlich erkennbar sind, sein. Auch Individuen können sich an trockene Standortsbedingungen anpassen. Solche abgehärteten Pflanzen überstehen Trockenheit deutlich besser.
 
-### Auftausalze 
-Streusalz wird im Winter zum Schmelzen von Schnee und Eis auf Verkehrswegen 
-verwendet und besteht meistens zu über 90 Prozent aus 
-Kochsalz, also Natriumchlorid. Es wird durch Schmelzwasser in den 
-Boden eingetragen, aber auch durch die Gischt der vorbeifahrenden Fahrzeuge direkt auf die Blätter immergrüner Bäume gespritzt. Nach 
-langjährigem Salzeinsatz finden sich auch in größerer Entfernung von 
-der Straße noch stark erhöhte Salzkonzentrationen im Boden. 
+Entscheidende Standortscharakteristika sind der Bodenwasservorrat, der sich aus dem durchwurzelbaren Bodenvolumen und den Bodeneigenschaften ergibt, und der Transpirationsanspruch der Atmosphäre. Windexponierte Standorte oder solche, an denen Gebäude zusätzliche Energie in Richtung des Baumes strahlen, bewirken in der Regel höhere Transpirationsraten.
 
-Hohe Salzkonzentrationen senken das osmotische Potenzial der Bodenlösung 
-und machen das Wasser dadurch für die Pflanzenwurzeln 
-schlechter verfügbar. Dadurch kann Trockenstress verstärkt oder sogar 
-erst erzeugt werden. Natriumionen können Kalzium- und Magnesiumionen 
-von den Kationenaustauschern verdrängen, die damit den Bäumen 
-nicht mehr zur Verfügung stehen. Auch können hohe Natriumgehalte 
-im Boden zu Verdichtung führen und die Verschlämmbarkeit und 
-den pH-Wert des Bodens erhöhen, sodass die Sauerstoffversorgung der 
-Wurzeln verschlechtert wird. Hohe Konzentrationen von Natriumchlorid 
-im Boden behindern die Aufnahme von Stickstoff, Kalium und Kalzium 
-durch die Wurzeln. 
+Schließlich muss die Gefährdung durch Schädlinge und Krankheiten, die gestresste Individuen befallen, in Betracht gezogen werden. Bekannte Beispiele sind das Sphaeropsis-Triebsterben der Kiefern und das Botryosphaeria-Triebsterben des Mammutbaums (Kehr 2006).
 
-Wird das Natriumchlorid vom Baum aufgenommen, entstehen durch 
-hohe Na+- und Cl–-Konzentrationen im Cytoplasma Ionenungleichgewichte, 
-wodurch Enzyme und Membranen in ihrer Funktion gestört 
-werden. Das Xylem von Bäumen, die in stark streusalzhaltigen Böden 
-wachsen, kann kleinere Gefäße ausbilden. Dadurch sinkt seine hydraulische 
-Leitfähigkeit, sodass in den Blättern häufiger Trockenstress 
-auftreten kann. Die Photosyntheseleistung der Blätter wird durch den 
-vom Streusalz verursachten Trockenstress und durch Salzeffekte auf 
-die Chloroplasten eingeschränkt (Schulze et al. 2002). 
+### Auftausalze
 
-Offensichtlich werden Streusalzschäden durch frühzeitige Laubverfärbung, 
-die am Blattrand beginnt, die Blattrandnekrosen (Abb. 2.44). 
-Weiterhin kann durch Streusalz, welches auf die Knospen gerät, das 
-Austreiben um mehrere Tage verzögert werden. Die Wachstumsraten 
-geschädigter Bäume sind geringer als bei vergleichbaren ungeschädigten 
-Exemplaren, weil sie vermehrt unter Trockenstress leiden, ihre 
-Photosyntheseleistung verringert und ihre Blattfläche kleiner ist, weil 
-sie später austreiben und früher ihre Blätter verlieren. Durch langjährige 
-intensive Streusalzanwendung können Kronenteile und auch ganze 
-Bäume absterben. 
+Streusalz wird im Winter zum Schmelzen von Schnee und Eis auf Verkehrswegen verwendet und besteht meistens zu über 90 Prozent aus Kochsalz, also Natriumchlorid. Es wird durch Schmelzwasser in den Boden eingetragen, aber auch durch die Gischt der vorbeifahrenden Fahrzeuge direkt auf die Blätter immergrüner Bäume gespritzt. Nach langjährigem Salzeinsatz finden sich auch in größerer Entfernung von der Straße noch stark erhöhte Salzkonzentrationen im Boden.
 
+Hohe Salzkonzentrationen senken das osmotische Potenzial der Bodenlösung und machen das Wasser dadurch für die Pflanzenwurzeln schlechter verfügbar. Dadurch kann Trockenstress verstärkt oder sogar erst erzeugt werden. Natriumionen können Kalzium- und Magnesiumionen von den Kationenaustauschern verdrängen, die damit den Bäumen nicht mehr zur Verfügung stehen. Auch können hohe Natriumgehalte im Boden zu Verdichtung führen und die Verschlämmbarkeit und den pH-Wert des Bodens erhöhen, sodass die Sauerstoffversorgung der Wurzeln verschlechtert wird. Hohe Konzentrationen von Natriumchlorid im Boden behindern die Aufnahme von Stickstoff, Kalium und Kalzium durch die Wurzeln.
 
-Abb. 2.44 Blattrandnekrosen 
-an Berg-
-Ahorn. 
+Wird das Natriumchlorid vom Baum aufgenommen, entstehen durch hohe Na<sup>+</sup>- und Cl<sup>-</sup>--Konzentrationen im Cytoplasma Ionenungleichgewichte, wodurch Enzyme und Membranen in ihrer Funktion gestört werden. Das Xylem von Bäumen, die in stark streusalzhaltigen Böden wachsen, kann kleinere Gefäße ausbilden. Dadurch sinkt seine hydraulische Leitfähigkeit, sodass in den Blättern häufiger Trockenstress auftreten kann. Die Photosyntheseleistung der Blätter wird durch den vom Streusalz verursachten Trockenstress und durch Salzeffekte auf die Chloroplasten eingeschränkt (Schulze et al. 2002).
 
-Über die Empfindlichkeit verschiedener Baumarten für Salzschäden 
-besteht teilweise noch Unsicherheit. Als besonders empfindlich werden 
-meist die Nadelbaumarten sowie Rosskastanie, Ahorne, Linden und 
-die Rot-Buche genannt, weniger empfindlich sind Stiel- und Trauben-
-Eiche, Esche und Robinie. 
+Offensichtlich werden Streusalzschäden durch frühzeitige Laubverfärbung, die am Blattrand beginnt, die Blattrandnekrosen (Abb. 2.44). Weiterhin kann durch Streusalz, welches auf die Knospen gerät, das Austreiben um mehrere Tage verzögert werden. Die Wachstumsraten geschädigter Bäume sind geringer als bei vergleichbaren ungeschädigten Exemplaren, weil sie vermehrt unter Trockenstress leiden, ihre Photosyntheseleistung verringert und ihre Blattfläche kleiner ist, weil sie später austreiben und früher ihre Blätter verlieren. Durch langjährige intensive Streusalzanwendung können Kronenteile und auch ganze Bäume absterben.
 
-### Sauerstoffmangel im Boden: ein häufig verkanntes Problem 
-Böden können als Vierphasensysteme aus Bodenteilchen, Bodenwasser, 
-Bodenluft und Bodenlebewesen betrachtet werden. Selbst bei Wassersättigung 
-bis zur Feldkapazität beträgt das luftgefüllte Porenvolumen 
-im Boden noch 10 bis 30 Prozent. In zeitweise oder dauerhaft wassergesättigten 
-und auch in stark verdichteten Böden ist dieser Anteil deutlich 
-geringer (Schulze et al. 2002, vgl. Kap. 2.7). 
+Abb. 2.44 Blattrandnekrosen an Berg- Ahorn.
 
-Für alle aeroben Atmungsvorgänge wird Sauerstoff benötigt. Während 
-der Vegetationsperiode liegt der tägliche Sauerstoffkonsum des 
-Bodens je nach Durchwurzelung und Mikrobentätigkeit bei 10 bis 20 l/ 
-m2. Dieser Sauerstoff muss aus der Atmosphäre über den luftgefüllten 
-Porenraum des Bodens nachgeliefert werden, bei der Atmung entstehendes 
-Kohlendioxid muss entsprechend entsorgt werden. Dabei 
-kommt der Struktur des obersten Bodenhorizontes eine besondere 
-Bedeutung zu: Die Gasdurchlässigkeit dieser Grenzschicht steuert den 
-Gasaustausch des gesamten Wurzelraumes. Stören Bodenverdichtung 
-oder Versiegelung den Gasaustausch zwischen Atmosphäre und Wurzeln, 
-dann ist die Versorgung der Feinwurzeln mit Sauerstoff nicht 
-mehr gewährleistet. 
+Über die Empfindlichkeit verschiedener Baumarten für Salzschäden besteht teilweise noch Unsicherheit. Als besonders empfindlich werden meist die Nadelbaumarten sowie Rosskastanie, Ahorne, Linden und die Rot-Buche genannt, weniger empfindlich sind Stiel- und Trauben- Eiche, Esche und Robinie.
 
-In Wäldern wurden als Folge von Belüftungsstörungen verringerte 
-Durchwurzelung und Vitalitätsverluste beobachtet, die bis zum Absterben 
-ganzer Kronenteile führen können. Bereits bei CO2-Konzentrationen 
-von über 0,6 Prozent kann in Waldböden mit deutlichen 
-Funktionsstörungen im Wurzelraum gerechnet werden. Umgekehrt 
-konnte nachgewiesen werden, dass durch eine Verbesserung der Belüftungssituation 
-das Wurzelwachstum angeregt werden kann (Gaertig 
-et al.1999). 
+### Sauerstoffmangel im Boden: ein häufig verkanntes Problem
 
+Böden können als Vierphasensysteme aus Bodenteilchen, Bodenwasser, Bodenluft und Bodenlebewesen betrachtet werden. Selbst bei Wassersättigung bis zur Feldkapazität beträgt das luftgefüllte Porenvolumen im Boden noch 10 bis 30 Prozent. In zeitweise oder dauerhaft wassergesättigten und auch in stark verdichteten Böden ist dieser Anteil deutlich geringer (Schulze et al. 2002).
 
-Bei Sauerstoffmangel stellen viele Organismen vom Atmungs- auf 
-den Gärungsstoffwechsel um, der einen erhöhten Stoffdurchsatz benötigt. 
-Dabei werden Reservestoffe rascher verbraucht und giftige 
-Endprodukte wie Ethanol und Milchsäure reichern sich an. Als Folge 
-der geringen Energieausbeute werden der Phloemtransport und die 
-Phloementladung gehemmt, sodass der Assimilatnachschub vermindert 
-ist. Hohe CO2-Konzentrationen führen bei Bäumen zu einer Abnahme 
-der Wurzelrespiration und beeinträchtigen so die Leistungsfähigkeit 
-der Feinwurzeln (Schulze et al. 2002). 
+Für alle aeroben Atmungsvorgänge wird Sauerstoff benötigt. Während der Vegetationsperiode liegt der tägliche Sauerstoffkonsum des Bodens je nach Durchwurzelung und Mikrobentätigkeit bei 10 bis 20 l/ m². Dieser Sauerstoff muss aus der Atmosphäre über den luftgefüllten Porenraum des Bodens nachgeliefert werden, bei der Atmung entstehendes Kohlendioxid muss entsprechend entsorgt werden. Dabei kommt der Struktur des obersten Bodenhorizontes eine besondere Bedeutung zu: Die Gasdurchlässigkeit dieser Grenzschicht steuert den Gasaustausch des gesamten Wurzelraumes. Stören Bodenverdichtung oder Versiegelung den Gasaustausch zwischen Atmosphäre und Wurzeln, dann ist die Versorgung der Feinwurzeln mit Sauerstoff nicht mehr gewährleistet.
 
-Gerade bei Stadtbäumen ist der Wurzelraum häufig versiegelt oder 
-verdichtet (Abb. 2.45) und damit der Gasaustausch zwischen Bodenluft 
-und Atmosphäre gestört oder gar unterbunden. Ist aufgrund von 
-Gashaushaltsstörungen die Feinwurzelmasse verringert, dann kann die 
+In Wäldern wurden als Folge von Belüftungsstörungen verringerte Durchwurzelung und Vitalitätsverluste beobachtet, die bis zum Absterben ganzer Kronenteile führen können. Bereits bei CO2-Konzentrationen von über 0,6 Prozent kann in Waldböden mit deutlichen Funktionsstörungen im Wurzelraum gerechnet werden. Umgekehrt konnte nachgewiesen werden, dass durch eine Verbesserung der Belüftungssituation das Wurzelwachstum angeregt werden kann (Gaertig et al.1999).
 
-Abb. 2.45 Versiegelung 
-und Verdichtung 
-am Stammfuß einer 
-Platane. 
+Bei Sauerstoffmangel stellen viele Organismen vom Atmungs- auf den Gärungsstoffwechsel um, der einen erhöhten Stoffdurchsatz benötigt. Dabei werden Reservestoffe rascher verbraucht und giftige Endprodukte wie Ethanol und Milchsäure reichern sich an. Als Folge der geringen Energieausbeute werden der Phloemtransport und die Phloementladung gehemmt, sodass der Assimilatnachschub vermindert ist. Hohe CO2-Konzentrationen führen bei Bäumen zu einer Abnahme der Wurzelrespiration und beeinträchtigen so die Leistungsfähigkeit der Feinwurzeln (Schulze et al. 2002).
 
+Gerade bei Stadtbäumen ist der Wurzelraum häufig versiegelt oder verdichtet (Abb. 2.45) und damit der Gasaustausch zwischen Bodenluft und Atmosphäre gestört oder gar unterbunden. Ist aufgrund von Gashaushaltsstörungen die Feinwurzelmasse verringert, dann kann die
 
-Wurzel die Krone nicht mehr ausreichend mit Wasser und Nährstoffen 
-versorgen. Äste sterben ab und müssen aufwendig zur Erhaltung der 
-Verkehrssicherheit entfernt werden. Wahrscheinlich ist ein großer Teil 
-der Aufwendungen für Baumpflegemaßnahmen auf Belüftungsengpässe 
-im Wurzelraum zurückzuführen. Belüftungsstörungen werden in der 
-Praxis allerdings nur selten als Ursache solcher Schäden erkannt und 
-behoben. 
+Abb. 2.45 Versiegelung und Verdichtung am Stammfuß einer Platane.
 
-### Temperaturstress 
-Hitze und Kälte, insbesondere Frost, beeinträchtigen den Stoffwechsel 
-und damit Wachstum und Vitalität der Bäume. Sie bestimmen für viele 
-Baumarten den geographischen Bereich, in dem sie angepflanzt werden 
-können. 
+Wurzel die Krone nicht mehr ausreichend mit Wasser und Nährstoffen versorgen. Äste sterben ab und müssen aufwendig zur Erhaltung der Verkehrssicherheit entfernt werden. Wahrscheinlich ist ein großer Teil der Aufwendungen für Baumpflegemaßnahmen auf Belüftungsengpässe im Wurzelraum zurückzuführen. Belüftungsstörungen werden in der Praxis allerdings nur selten als Ursache solcher Schäden erkannt und behoben.
 
-Bei Windstille und starker Einstrahlung kann in Bodennähe, besonders 
-über Asphalt und Beton, eine Temperatur von 60 bis 70 °C erreicht 
-werden (Larcher 1994). Pflanzengewebe sterben meist bei Temperaturen 
-von über 50 bis 60 °C. Trotzdem gibt es wenige Berichte über Blätter, 
-die aufgrund solcher Temperaturen abstarben. Allerdings werden 
-auch in unseren Breiten stundenweise Blatttemperaturen erreicht, die 
-die Photosyntheserate verringern. 
+### Temperaturstress
 
-Bereits unterhalb von 5 °C beeinträchtigen tiefe Temperaturen die 
-Funktion von Pflanzen, etwa durch die erhöhte Viskosität des Wassers. Alle chemischen Prozesse verlaufen langsamer und Gleichgewichtsreaktionen 
-verschieben sich. Tiefe Temperaturen schädigen die Zellen, wobei kälteempfindliche 
-Pflanzen oder Gewebe schon bei einigen Grad über Null 
-geschädigt werden können. 
+Hitze und Kälte, insbesondere Frost, beeinträchtigen den Stoffwechsel und damit Wachstum und Vitalität der Bäume. Sie bestimmen für viele Baumarten den geographischen Bereich, in dem sie angepflanzt werden können.
 
-Abb. 2.46 Sonnennekrose 
-an Berg-Ahorn, 
-am Stammfuß Befall 
-mit Schizophyllum 
-commune. 
+Bei Windstille und starker Einstrahlung kann in Bodennähe, besonders über Asphalt und Beton, eine Temperatur von 60 bis 70 °C erreicht werden (Larcher 1994). Pflanzengewebe sterben meist bei Temperaturen von über 50 bis 60 °C. Trotzdem gibt es wenige Berichte über Blätter, die aufgrund solcher Temperaturen abstarben. Allerdings werden auch in unseren Breiten stundenweise Blatttemperaturen erreicht, die die Photosyntheserate verringern.
 
+Bereits unterhalb von 5 °C beeinträchtigen tiefe Temperaturen die Funktion von Pflanzen, etwa durch die erhöhte Viskosität des Wassers. Alle chemischen Prozesse verlaufen langsamer und Gleichgewichtsreaktionen verschieben sich. Tiefe Temperaturen schädigen die Zellen, wobei kälteempfindliche Pflanzen oder Gewebe schon bei einigen Grad über Null geschädigt werden können.
 
-Selbst wenn Wasser bei vielen Baumarten in einigen Geweben auch 
-bei Temperaturen unter 0 °C noch flüssig ist, so gefriert es bei andauernd 
-niedrigen Temperaturen letztlich meist doch. Die Eisbildung 
-beginnt außerhalb der Zellen und entzieht ihnen Wasser, sodass diese 
-Art von Frostschäden mit Trockenschäden vergleichbar ist. Wenn das 
-Wasser innerhalb der Zellen gefriert, dann können die Eiskristalle die 
-Zellmembran verletzten (Schulze et al. 2002). 
+Abb. 2.46 Sonnennekrose an Berg-Ahorn, am Stammfuß Befall mit Schizophyllum commune.
 
-Da Bäume unserer Breitengrade in der Regel durch Abhärtung an 
-Winterfröste angepasst sind, treten Schäden meist als Folge von Spätfrösten 
-auf, wenn die Gewebe schon wieder enthärtet sind. Frosttrocknis 
-tritt an Nadelbäumen auf, wenn an warmen Wintertagen die Transpiration 
-der Nadeln angeregt wird, der Boden und der Stamm aber 
-noch gefroren sind, sodass kein Wasser nachgeliefert werden kann. 
+Selbst wenn Wasser bei vielen Baumarten in einigen Geweben auch bei Temperaturen unter 0 °C noch flüssig ist, so gefriert es bei andauernd niedrigen Temperaturen letztlich meist doch. Die Eisbildung beginnt außerhalb der Zellen und entzieht ihnen Wasser, sodass diese Art von Frostschäden mit Trockenschäden vergleichbar ist. Wenn das Wasser innerhalb der Zellen gefriert, dann können die Eiskristalle die Zellmembran verletzten (Schulze et al. 2002).
 
-Sonnennekrosen und Stammrisse, wie sie in den letzten Jahren 
-verstärkt vor allem an jungen Ahornbäumen beobachtet werden 
-(Abb. 2.46), treten im Spätwinter auf, wenn der Stamm in der Nacht 
-durch starken Frost gefriert und tagsüber teilweise auftaut, oder aber 
-im Sommer bei intensiver Sonneneinstrahlung. 
+Da Bäume unserer Breitengrade in der Regel durch Abhärtung an Winterfröste angepasst sind, treten Schäden meist als Folge von Spätfrösten auf, wenn die Gewebe schon wieder enthärtet sind. Frosttrocknis tritt an Nadelbäumen auf, wenn an warmen Wintertagen die Transpiration der Nadeln angeregt wird, der Boden und der Stamm aber noch gefroren sind, sodass kein Wasser nachgeliefert werden kann.
 
-## Anpassungsstrategien 
-Bäume können auf zwei Arten eine Resistenz gegen einen Stressfaktor 
-besitzen oder aufbauen: durch Vermeidung oder durch Ertragen. 
+Sonnennekrosen und Stammrisse, wie sie in den letzten Jahren verstärkt vor allem an jungen Ahornbäumen beobachtet werden (Abb. 2.46), treten im Spätwinter auf, wenn der Stamm in der Nacht durch starken Frost gefriert und tagsüber teilweise auftaut, oder aber im Sommer bei intensiver Sonneneinstrahlung.
 
-Bäume vermeiden Trockenstress, indem sie bei beginnender Austrocknung 
-des Bodens sofort ihre Wasseraufnahme einschränken. 
-Sie verringern die stomatäre Leitfähigkeit, um eine Absenkung des 
-Wasserpotenzials und Embolien der wasserleitenden Xylemgefäße 
-zu verhindern. Um Salzbelastung zu vermeiden, können Pflanzen 
-die Aufnahme des NaCl verringern und Salz, welches aufgenommen 
-wurde, unschädlich einlagern oder über Salzdrüsen ausscheiden. Bei 
-Sauerstoffmangel können Strukturen zur Leitung des Sauerstoffs zu 
-den Mangelbereichen aufgebaut werden. 
+## Anpassungsstrategien
 
-Andere Baumarten behalten eine hohe stomatäre Leitfähigkeit bei, 
-wodurch das Blattwasserpotenzial erniedrigt wird. Dadurch können 
-diese Arten auch bei Trockenheit Wasser gut aufnehmen. Ihr Xylem 
-ist durch eine geringe Empfindlichkeit für Leitfähigkeitsverlust 
-gekennzeichnet, sie können das osmotische Potenzial ihrer Blätter 
-regeln, um einen ausreichenden Turgor aufrecht zu erhalten und haben 
-steife Zellwände, die einen Kollaps verhindern. Diese Baumarten 
-ertragen Trockenstress. 
+Bäume können auf zwei Arten eine Resistenz gegen einen Stressfaktor besitzen oder aufbauen: durch Vermeidung oder durch Ertragen.
+
+Bäume vermeiden Trockenstress, indem sie bei beginnender Austrocknung des Bodens sofort ihre Wasseraufnahme einschränken. Sie verringern die stomatäre Leitfähigkeit, um eine Absenkung des Wasserpotenzials und Embolien der wasserleitenden Xylemgefäße zu verhindern. Um Salzbelastung zu vermeiden, können Pflanzen die Aufnahme des NaCl verringern und Salz, welches aufgenommen wurde, unschädlich einlagern oder über Salzdrüsen ausscheiden. Bei Sauerstoffmangel können Strukturen zur Leitung des Sauerstoffs zu den Mangelbereichen aufgebaut werden.
+
+Andere Baumarten behalten eine hohe stomatäre Leitfähigkeit bei, wodurch das Blattwasserpotenzial erniedrigt wird. Dadurch können diese Arten auch bei Trockenheit Wasser gut aufnehmen. Ihr Xylem ist durch eine geringe Empfindlichkeit für Leitfähigkeitsverlust gekennzeichnet, sie können das osmotische Potenzial ihrer Blätter regeln, um einen ausreichenden Turgor aufrecht zu erhalten und haben steife Zellwände, die einen Kollaps verhindern. Diese Baumarten ertragen Trockenstress.

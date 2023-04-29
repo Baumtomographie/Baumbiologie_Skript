@@ -1,0 +1,547 @@
+## Vitalitätsbeurteilung
+
+### Zusammenfassung
+
+Vitalität wird bei Bäumen oft mit Lebenstüchtigkeit, Wuchspotenz oder
+Stresstoleranz gleichgesetzt, also mit wahrscheinlichen Reaktionen auf
+zukünftige Entwicklungen. Zur Beurteilung der Vitalität von Bäumen
+stehen verschiedene Verfahren zur Auswahl, von denen in dieser Untersuchung zwei, deren Eignung in den letzten Jahren kontrovers diskutiert wurde, hinsichtlich der Anwendung an Altbäumen verglichen werden. Um zu untersuchen, inwieweit es Unterschiede
+bezüglich der Einschätzung einzelner Bäume gibt, schätzten A. Roloff
+und U. Weihs jeweils die Vitalität von 100 Berg-Ahornen und 47
+Rot-Buchen ein.
+
+Der Zeitaufwand für beide Verfahren war ähnlich gering. Die
+Vitalitätsstufen der Bäume nach beiden Methoden hingen statistisch
+hoch signifikant, aber mit großer Streuung, zusammen. Dabei war die
+Einschätzung anhand der Kronenarchitektur im Mittel um 1,5 Stufen
+schlechter. Bäume mit Vitalitätsstufe 0 nach Weihs hatten
+Vitalitätsstufen zwischen 0 und 3 nach Kronenarchitektur. Die
+Vitalitätseinstufung von Roloff erklärte bereits ein Drittel der
+Streuung in der Einschätzung von Weihs.
+
+Die Kronenarchitektur sollte weiterhin die Basis
+der Vitalitätsbeurteilung sein, da dieses Verfahren auf leicht
+erlernbaren, nachvollziehbaren und physiologisch begründeten Regeln
+beruht. Wenn aber bei alten Stadtbäumen Merkmale insbesondere des Stammes auf eine
+deutlich höhere Vitalität hinweisen, als sie alleine aufgrund der
+Kronenarchitektur eingeschätzt würde, sollte in Zukunft die
+Einstufung des Baumes angepasst werden. Dadurch enthält
+die Vitalitätsstufe ohne weitere Zusätze wie "altersgemäß normal" die
+abschließende Beurteilung des Baumes und die Gefahr der
+Fehlinterpretation "schlechter" Vitalitätsstufen bei alten Bäumen ist geringer.
+
+Vitality of trees is often defined in relation to survival, growth, or
+response to stress. A wide range of methods is used to assess
+vitality, often based on crown architecture, crown condition, or
+epicormic growth. This study applies two contrasting methods to assess
+old *Fagus sylvatica* and *Acer pseudoplatanus* and compares the
+results quantitatively. One method is based on the architecture of the
+upper part of the crown, the other uses a wide range of parameters,
+most of them related to the trunk. Both use an ordinal scale ranging
+from 0 (best) to 3 (worst).
+
+Both methods were equally fast, and their results were statistically
+highly significantly correlated, albeit with very large scatter. Vitality
+based on crown architecture was on average 1.5 grades worse and
+explained a third of the variation of the other method.
+
+Crown architecture should remain the basis of vitality assessment,
+because it is easy to learn, repeatable and based on a physiological
+model. In old trees, where the growth of crown and trunk can be
+de-couppled, a low vitality score should be adjusted when the trunk
+shows signs of vigorous growth.
+
+
+### Einleitung
+
+Mindestens seit den 1970er Jahren wurden Methoden zur Einschätzung der
+Vitalität von Bäumen in Wäldern, aber auch in Städten, entwickelt. Sie
+verwenden die Bewertung äußerer Merkmale oder die Messung
+physikalischer oder chemischer Eigenschaften der Bäume. Ebenso wie
+Waldbäume bei der Waldzustandserhebung werden heute auch Stadtbäume in der Regel auf einer Ordinalskala von 0 (gut) bis 3
+(schlecht) eingeordnet.
+
+In Deutschland war besonders ein Verfahren erfolgreich, das auf
+Veränderungen der Kronenarchitektur beruht und anfänglich in der
+Waldschadensforschung für Waldbäume entwickelt wurde
+[@Rolo85a;@Roloff2001]. Falsche Schlussfolgerungen
+bei der Beurteilung von Stadtbäumen, z. B. hinsichtlich der Verkehrssicherheit, und Probleme bei der Beurteilung
+von alten oder gekappten Bäumen haben in den letzten Jahren die
+Weiterentwicklung dieses etablierten Konzeptes durch die Einbeziehung
+des Baumalters [@Roloff2018] sowie weitere Indikatoren [@Weihs2017] angeregt.
+
+In dieser Untersuchung werden die Ergebnisse von zwei
+Klassifikationsverfahren für die Vitalität von Bäumen
+verglichen. Eines verwendet allein die Architektur der Oberkrone
+[@Roloff2001;@Roloff2018], das andere bezieht eine Vielzahl von Merkmalen des
+ganzen Baumes mit ein [@Weihs2017]. So soll geklärt werden, ob, wie
+stark und wodurch sich die Einschätzungen der Vitalität unterscheiden.
+
+### Grundlagen
+
+In der Baumpflege sollen Vitalitätsmaße Entscheidungen unterstützen, z. B. als
+Indikatoren für die Beurteilung der Reststandzeit, die Reaktion des
+Baumes auf Schäden oder für die Erfolgsaussichten von
+Eingriffen. Missbräuchlich wird das Maß der Vitalität gelegentlich auch als
+Indikator für die Verkehrssicherheit verwendet, oft auch direkt mit
+dem Gesundheitszustand gleichgesetzt.
+
+#### Vitalität
+
+Die Lebenstüchtigkeit oder Vitalität eines Organismus äußert sich in einer
+Vielzahl von Eigenschaften, von denen wir bei Bäumen in der Stadt nur
+sehr wenige direkt beobachten und im Vergleich zu anderen Individuen
+bewerten können, z. B. [@Weihs2017]
+
+- Lebensdauer
+- Überlebensrate
+- Zahl der Nachkommen/Fruchtbarkeit
+- Konkurrenzstärke
+- Widerstandsfähigkeit
+- Anpassungsfähigkeit
+
+Nach ZTV-Baumpflege äußert sich die Vitalität "im Gesundheitszustand,
+insbesondere in
+- Wachstum, Kronenstruktur und Zustand der Belaubung
+- der Anpassungsfähigkeit an die Umwelt
+- der Widerstandsfähigkeit gegen Krankheiten und Schädlinge
+- der Regenerationsfähigkeit." [@FLL2017]
+
+Hierbei ist der Begriff "Gesundheitszustand" durchaus problematisch,
+da er, wie die Fortsetzung des Satzes deutlich macht, anders
+als umgangssprachlich üblich verstanden wird. Es geht gerade nicht um
+die bloße Abwesenheit von Krankheit, sondern um Eigenschaften, die in
+der Ökologie gemeinhin als Fitness, Resistenz und Resilienz bezeichnet
+werden. Sowohl die Anpassungs- und Widerstandsfähigkeit als auch die
+Regenerationsfähigkeit sind in der Praxis jedoch nur eingeschränkt zu
+beurteilen, da hierfür verursachende Umstände vorhanden und dem
+Gutachter bekannt sein müssen. Zudem gibt es keine allgemein
+akzeptierten Skalen, auf denen Sachverständige diese Eigenschaften
+reproduzierbar einordnen könnten.
+
+Das Wachstum eines Baumes ist ebenfalls kaum objektiv zu erfassen,
+wenn man ihn einmal in seinem Leben aufsucht. Man nutzt daher eher
+qualitative Indikatoren, wie z. B. Zuwachsstreifen und
+Wundüberwallung. Jahrringbreiten werden seit vielen Jahren in
+wissenschaftlichen Studien für die Beurteilung der Vitalität von
+Waldbäumen herangezogen [@Waring1980], sind aber für Stadtbäume
+ungeeignet, da sowohl die Jahrringbreiten als auch die erforderlichen
+Bezugsgrößen (Blattfläche, Stammquerschnittsfläche, Wachstum gesunder
+Vergleichsbäume [@Dobbertin2005c]) nicht zerstörungsfrei und mit
+angemessenem Aufwand sowie hinreichender Genauigkeit gemessen werden
+können, und zudem der Sollzustand unbekannt ist.
+
+Die Kronenstruktur ist zwar ein mit wenig Aufwand und Übung
+verwendbarer Indikator für das Wachstum der Oberkrone jüngerer Bäume,
+verliert aber bei alten Bäumen an Auflösung, da diese Bäume kaum noch
+in die Höhe wachsen. Wenn man unter Wachstum nicht alleine das
+Höhenwachstum, sondern die Zunahme des gesamten Holzvolumens des
+Baumes versteht, so spiegelt sich die Wuchspotenz des Baumes
+nicht in seinen Trieblängen wider, denn während der Höhenzuwachs in
+den ersten einhundert Lebensjahren stetig abnimmt, steigt der
+Volumenzuwachs weiterhin deutlich an. Zudem ist es wahrscheinlich, dass
+zumindest bei alten Bäumen der Zuwachs am unteren Stamm und Stammfuß
+und der Längenzuwachs der Triebe in der Oberkrone entkoppelt sind.
+
+Der Zustand der Belaubung (Kronentransparenz, Blattfarbe oder -größe)
+wird seit vielen Jahren als ein Indikator für die Vitalität
+verwendet. Ebenso lange sind jedoch auch die Probleme dieser Parameter
+bekannt [@Elle95;@Inne93].
+
+Geräte und Messverfahren, die im Zusammenhang mit der Einschätzung der
+Vitalität genannt werden, machen in der Regel Aussagen über aktuellen
+Stress, nicht aber über die Vitalität eines Baumes, so z. B. die
+Chlorophyllfluoreszenz [@Johnstone2012;@Johnstone2013;@Hwang2016;
+@Callow2018;@Martinez-Trinidad2010a;@Uhrin2016a].
+
+#### Zusammenhang mit Zielgrößen: Was sagen Vitalitätsstufen aus?
+
+Grundlage einer jeden Vitalitätsbeurteilung sollten Muster sein,
+anhand derer Bäume auf der Basis wissenschaftlich abgesicherter
+Ursache-Wirkungs-Beziehungen klassifiziert werden können.
+
+In der Baumkrone entstehen solche Muster z. B. durch Veränderungen des
+Wachstums von Zweigen. Diese Muster dienen der Klassifikation der
+Bäume, d. h.  der Einteilung in Vitalitätsstufen [@Rolo85a]. Dem liegt
+ein Modell der Entwicklung der Kronenarchitektur von Bäumen zugrunde,
+welches einen Ursache-Wirkungs-Zusammenhang zwischen den verwendeten
+Mustern und der Zielgröße Vitalität herstellt
+[@Rust2002EiHA;@Rust1999]. Die Strukturen, welche zur Einstufung der
+Vitalität anhand der Kronenarchitektur verwendet werden, haben einen
+direkten, messbaren Einfluss auf die Leistungsfähigkeit der Krone
+[@Rust2001c].
+
+Für eine Klassifikation der Vitalität sollten also Indikatoren
+verwendet werden, deren Ausprägung ursächlich mit der Vitalität
+zusammenhängt und nach nachvollziehbaren Regeln auf einer Skala
+abgebildet werden kann. Diese Abbildung muss unabhängig von der
+ausführenden Person sein. Außerdem sollten diese Merkmale frühzeitig
+auf Veränderungen der Vitalität reagieren, von anderen Einflüssen aber
+möglichst unabhängig sein.
+
+Zur Einschätzung der Vitalität werden sowohl quantitative
+(z. B. Kronentransparenz in Prozent) als auch qualitative
+(z. B. altersgemäße Baum- und Kronengestalt) Indikatoren eingesetzt.
+
+Da die Vitalität nicht objektiv gemessen, sondern nur über Indikatoren
+indirekt erschlossen werden kann, ist es besonders wichtig, dass diese
+Indikatoren mit Zielgrößen zusammenhängen, die für die Baumpflege
+wichtig sind. Dies sind insbesondere das zukünftige Wachstum und die
+Wahrscheinlichkeit des Überlebens einer gegebenen Zeitspanne, da aus
+deren Einschätzung Maßnahmen abgeleitet werden. Man sollte daher
+erwarten, dass umfangreiche Studien über Zusammenhänge zwischen der
+Einschätzung der Vitalität und solchen Zielgrößen vorhanden sind.
+
+##### Wachstum
+Die Lebensfähigkeit sollte am Wachstum eines Baumes besonders deutlich
+erkennbar sein. Wachstumsbeschreibende Messgrößen sind u. a.:
+
+- Baumhöhenzuwachs
+- Stammdurchmesserzuwachs
+- Trieblängenzuwachs
+- Volumenzuwachs
+- Grundflächenzuwachs
+
+Alle genannten Parameter sagen als absolute Größen wenig aus und
+müssen daher auf eine sinnvolle Größe bezogen werden
+[@Waring1980]. Dies wird an der Diskussion über den Trieblängenzuwachs
+deutlich, der ja bekanntermaßen im Laufe eines Baumlebens abnimmt.
+
+Untersucht wurde z. B. der Volumenzuwachs im Verhältnis zur Fläche des
+Kambiums oder der Blätter [@Robichaud1991] oder zum Verhältnis
+relative Kronenmantelfläche/Stammoberfläche [@Voelker2008]. Wichtig
+ist dabei auch der Vergleich mit anderen Individuen der gleichen Art
+und ähnlichen Alters auf dem gleichen Standort. Infolge des hohen
+Aufwands sind solche direkten Messungen des Wachstums bei der
+Baumuntersuchung meist unpraktikabel.
+
+Viele Arbeiten belegen inzwischen, dass es häufig keinen Zusammenhang
+zwischen dem Durchmesserzuwachs und dem Trieblängenzuwachs eines
+Baumes gibt [@Bauch1986a; @Atha83; @Athari1983; @Atha89]. Zwar gibt es
+Hypothesen, die diese Ergebnisse erklären [@Roloff2018], jedoch ist
+bisher nicht geklärt, wie die unterschiedlichen Zuwächse der Triebe
+und des Stammes vom Baumgutachter zu bewerten sind.
+
+##### Belaubung
+
+Die Belaubung eines Baumes wird oft anhand der Kronentransparenz und
+der Blattgröße und -farbe beurteilt. Dies ist bei laubwerfenden
+Baumarten natürlich nur in der Vegetationsperiode möglich.
+
+###### Kronenverlichtung oder -transparenz
+
+Die Kronenverlichtung korreliert mit der Kronenarchitektur
+[@Eichhorn2013] und mit der Mortalität und dem Zuwachs
+[@Dobbertin2009;@Schmid-Haas1993;@Solberg1999;@Heres2018]. Allerdings
+gibt es Ausnahmen, z. B. in einer Studie an Alteichen [@Voelker2008],
+in der der Kronenzustand ("dieback") kaum mit dem Zuwachs
+zusammenhing. Zu beachten ist, dass die Kronenverlichtung generell mit
+dem Alter eines Baumes zunimmt [@Musio2007] und auch kurzfristig von
+Trockenheit oder Mastjahren beeinflusst wird.
+
+###### Blattgröße und -farbe
+
+Auch die Blattgröße und -farbe können von ganz unterschiedlichen
+Faktoren beeinflusst werden, die für den Sachverständigen oft nicht
+ersichtlich sind. Bei Waldbäumen wurde der Einfluss der
+Nährelementversorgung oder von Mastjahren intensiv untersucht. Extreme
+Ausprägungen mit kleinen oder gelben Blättern sind auch ohne viel
+Aufwand offensichtlich und sollten in die Beurteilung eines Baumes
+einfließen. @Solberg1999 fand an Waldkiefern eine deutliche Abnahme
+des Stammzuwachses mit zunehmender Nadelvergilbung.
+
+##### Krone
+
+###### Kronenform
+
+Eigenschaften der Baumkrone werden schon seit langem bei der
+Beurteilung von Bäumen berücksichtigt [@Kramer88]. Bereits 1958 führte
+@Dawkins1958 ein Beurteilungsschema für die Kronenform ein. Es verwendet die Kronenform, um die zukünftige Entwicklung
+von Waldbäumen einzuschätzen:
+
+- Perfekt: breit, rund, symmetrisch
+- Gut: nahezu ideal, leicht asymmetrisch oder wenige tote Zweige
+- Tolerierbar: deutlich asymmetrisch oder dünn, aber in der Lage,
+  sich zu verbessern
+- Schlecht: viel Totholz, starke Asymmetrie, wenige Zweige, aber
+  überlebensfähig
+- Sehr schlecht: abbauend oder unterdrückt, oder stark beschädigt,
+  wahrscheinlich unfähig, den Zuwachs zu erhöhen
+  
+In einem artenreichen tropischen Urwald stieg der Brusthöhenumfang der
+Bäume in den folgenden 3-7 Jahren nach der Bewertung der Kronenform
+linear mit diesem Parameter an [@Vincent2002].
+
+Zu einem ähnlichen, kanadischen System aus den 1960er Jahre gibt
+es zahlreiche Untersuchungen auch an Stadtbäumen
+[z. B. @Dyer1986]. Diese Kronenklasse korreliert beispielsweise auf
+armen Böden mit dem Zuwachs der Bäume, aber nicht auf reichen
+[@Drobyshev2007]. @Callow2018 stellten fest, dass nach diesem
+Vitalitätsschlüssel weniger vitale Ulmen stärker unter Trockenstress
+litten.
+
+Der Anteil toten Feinreisigs, der in diesem System verwendet wird,
+kann als Vitalitätsweiser problematisch sein, da diese Zweige nur
+wenige Jahre nach einem auslösenden Ereignis wieder verschwunden sein
+können, der Baum aber erst Jahrzehnte später abstirbt. Allerdings
+haben @Chakraborty2017a beobachtet, dass Buchen in den von ihnen
+untersuchten Wäldern abstarben, wenn 58 % ihrer oberirdischen Biomasse
+tot war.
+
+Bemerkenswert ist die große Ähnlichkeit dieser Ansätze zum Schadstufenschlüssel der GALK.
+
+
+###### Kronenarchitektur
+
+Die Einstufung der Vitalität anhand der Kronenarchitektur
+[@Rolo85a;@Roloff2001] braucht hier nicht näher vorgestellt zu
+werden. Wichtig ist allerdings, auf die Ergänzungen der letzten Jahre
+hinzuweisen, mit denen die Methodik besser an die Verwendung bei alten
+und gekappten Stadtbäumen angepasst wurde. Insbesondere wurde
+klargestellt, dass auch die Vitalitätsstufen 2 und 2,5 durchaus
+altersgemäß normal sein können und keinesfalls für sich alleine einen
+Grund zur Fällung eines Baumes sind [@Roloff2018].
+
+Bemerkenswert ist, dass es wenige Untersuchungen zum Zusammenhang
+zwischen der Vitalitätsstufe und den eigentlichen Zielgrößen gibt. In
+einer interessanten Studie von @Gillner2013 korreliert die
+Vitalitätsstufe mit Zuwachs und Mortalitätsrate.
+
+##### Reiterationsvermögen
+
+Nur am Rande sei hier die widersprüchliche Einordnung von
+Reiterationen erwähnt. Während das Reiterationsvermögen in einigen
+Modellen als Zeichen hoher Vitalität gesehen wird [z. B. @Weihs2017],
+erscheinen Reiterate in anderen Modellen als Indikator für eine
+verminderte Vitalität [z. B. @Callow2018]. In einer dritten Gruppe von
+Modellen werden Reiterate, die eine positive Entwicklung anzeigen, von
+solchen unterschieden, welche eine negative anzeigen
+[z. B. @Drenou2015]. Für Buchen konnte gezeigt werden, dass der vermehrte 
+Austrieb von Reiteraten mit einem verminderten Zuwachs des Stammes 
+zusammenhängt [@Nicolini2001;@Colin2012a]. Außerdem können, z. B. bei der Buche, dünne
+Reiterate mehrere Jahrzehnte alt sein, ohne das dies vom Stammfuß aus
+zu erkennen ist, und so über den aktuellen Zustand des Baumes hinweg täuschen. 
+
+### Aktuelle Diskussion
+
+Sachverständige, die alte Bäume untersuchen, bemängeln, dass mithilfe
+der Vitalitätsstufen nach Kronenarchitektur nicht zwischen
+anscheinend unterschiedlich vitalen Bäumen differenziert werden
+kann, da sie in der Regel in die altersgemäß normalen Stufen 2 oder 2,5
+eingestuft werden. Daher gibt es Vorschläge, weitere Kriterien hinzu zu
+ziehen, oder gar ganz neue Vitalitätsstufenmodelle zu
+etablieren. Dabei sollte aus den hier vorgestellten, bewährten und
+wissenschaftlich fundierten Kriterien gewählt werden. Ganz neue, nicht
+untersuchte und nur schwer objektiv bewertbare Merkmale sollten jedoch
+in der Praxis vermieden werden.
+
+
+#### Vitalitätsbeurteilung
+
+A. Roloff beurteilte die Oberkrone der Bäume mithilfe eines
+Fernglases, wenn möglich von zwei Seiten aus. Die Bäume wurden anhand
+der Kronenarchitektur in die Vitalitätsstufen
+
+- 0: Langtriebmodus
+- 1: Bürstenmodus
+- 2: Kurztriebmodus
+- 3: Rückzugsmodus
+
+eingestuft [@Rolo85a;@Roloff2001;@Roloff2018]. Diese Vitalitätsstufen
+entsprechen in der Forstwirtschaft den Wachstumsphasen Exploration,
+Degeneration, Stagnation und Retraktion [@Rolo85a].
+
+U. Weihs beurteilte die Bäume im Wesentlichen von der Stammbasis
+aus. Um den Einfluss der einzelnen von ihm vorgeschlagenen Parameter
+[@Weihs2017] statistisch untersuchen zu können, wurden in dieser
+Untersuchung alle auf einer vierstufigen Ordinalskala (0-3) bewertet
+(Weihs 2019). Dabei stand 3 für die beste Ausprägung, was sich jedoch
+im Laufe der Untersuchung als unpraktisch herausstellte. Daher
+schlägt Weihs (2019) vor, die beste Ausprägung mit 0 zu bewerten, und
+die schlechteste mit 3. Berücksichtigt wurden:
+
+- Altersgemäß normale Kronengestalt
+- Zuwachs (Zuwachsstreifen mit sichtbarem Periderm) an 
+  - Stammfuß, 
+  - Stamm und in der 
+  - Krone 
+- Fähigkeit zur Wundholzholzbildung
+- Fähigkeit zur Kompensationsholzbildung
+- Reiterationsfreudigkeit an 
+  - Stammfuß, 
+  - Stamm und in der 
+  - Krone
+- Blühfreudigkeit
+- Belaubungsdichte und -farbe sowie Blatt- und Knospengröße unter Beachtung periodisch wirkender Störfaktoren
+
+Diese 11 Merkmale wurden rein visuell, also ohne Messungen und
+Hilfsmittel, eingeschätzt. Eine Anleitung, wie diese Zuordnung
+reproduzierbar geschehen soll, gibt es bisher nicht. Beispiele für den Parameter "Zuwachs" zeigt Abb. \@ref(fig:Zuwachs). Traumatische Ereignisse
+(z. B. Übererdung des Stammfußes oder ein Ausbruch größerer
+Kronenteile) wurden als vorhanden/nicht vorhanden verzeichnet.
+
+Außerdem wurden die Bäume nach ihrer Gestalt in die
+Lebensphasen Reife, Alterung, Kronenrückzug und Vergreisung
+eingeteilt (Weihs 2019). Diese sind nicht zu verwechseln mit den teilweise
+gleichnamigen Lebensphasen der Baumkontrollrichtlinie [@FLL2010], die
+im Wesentlichen das chronologische Alter der Bäume zugrunde legt, während
+in dieser Untersuchung die Bäume aufgrund ihrer Gestalt trotz gleichen
+Alters in die unterschiedlichen Phasen eingeteilt wurden. Dies geschah
+vergleichbar zu @Fay2015 und @Roloff2018.
+
+Unter Berücksichtigung aller genannten Merkmale wurde abschließend für
+jeden Baum eine Vitalitätsstufe zwischen 0 (vital) und 3 (abgängiger
+Baum) festgelegt. Dazu wurden die Teilergebnisse nicht verrechnet.
+
+```{r Zuwachs, fig.cap="Buchen mit Einstufungen des Zuwachses von 0 (links oben) bis 3 (rechts unten)."}
+	knitr::include_graphics("Zuwachs_BU_KFk.jpg")
+```
+
+### Diskussion
+
+Mit der Vitalität eines Baumes bewerten wir die Gestalt eines Baumes als
+Ausdruck seiner Reaktionsfähigkeit auf Umwelteinflüsse in der
+Vergangenheit und schließen daraus auf seine zukünftige Entwicklung.
+Obwohl die Vitalität von Wald- und Stadtbäumen schon seit Jahrzehnten
+routinemäßig erfasst wird, gibt es gerade für die in Deutschland am
+häufigsten an Stadtbäumen angewandten Methoden erstaunlich wenige
+wissenschaftliche Untersuchungen zu ihrem Zusammenhang mit der
+weiteren Entwicklung der Bäume. Die Güte eines Verfahrens, welches
+Aussagen zur Wuchspotenz oder Stresstoleranz eines Baumes verspricht,
+kann nur an der zukünftigen Entwicklung dieses Baumes gemessen
+werden. Der kurze Literaturüberblick am Anfang des Grundlagenkapitels macht
+deutlich, dass solche Zusammenhänge nachweisbar sind. Auch für
+die beiden in diesem Praxistest miteinander verglichenen Methoden
+sollte dieser Nachweis gelingen.
+
+Da bisher aber kein absolutes Maß für die Vitalität eines Baumes
+existiert, ist es nicht möglich zu entscheiden, ob eines der Verfahren
+die Vitalität besser abbildet. Es muss hier stattdessen darum gehen,
+ob die Verfahren in sich konsistent sind, wie stark und warum sich ihre
+Ergebnisse unterscheiden, und ob sie die Grundlage einer
+reproduzierbaren Vitalitätsbeurteilung sein können.
+
+Die Wahrscheinlichkeit, dass ein von A. Roloff als vital
+eingestufter Baum auch von U. Weihs so eingeschätzt wurde, war
+hoch (Abb. \@ref(fig:VergleichRoloffWeihsGam)). Zwar gab es bei einzelnen Bäumen gravierende Abweichungen, aber
+die Tendenz war bei beiden ähnlich. Die Ergebnisse zeigen also, dass
+selbst zwei als sehr unterschiedlich empfundene Methoden grundsätzlich
+das gleiche beurteilen.
+
+Auffällig ist die grundsätzlich positivere Einstufung durch Ulrich
+Weihs, die aber auch erklärtes Ziel seines Ansatzes ist. Andreas
+Roloff bemerkte häufig zusätzlich zur Vitalitätsstufe, dass diese
+"altersgemäß normal" sei. Dieser Zusatz entfällt bei der
+Vitalitätsstufe nach Weihs und ist in diese bereits
+eingeschlossen. Daher kann ein Baum mit VS 0 (Weihs) jede
+Vitalitätsstufe von 0 bis 3 nach Kronenarchitektur haben.
+
+
+#### Zeitbedarf
+
+Obwohl die Einschätzung einer Reihe von Merkmalen erforderlich war,
+war die von U. Weihs benötigte Zeit am Baum vergleichbar mit der
+von A. Roloff aufgewandten. Das macht deutlich, dass auch
+komplexere Verfahren praktikabel sind. Dies wurde in der Vergangenheit
+durchaus kritisch gesehen [@Roloff2018].
+
+#### Systematische Verwendung mehrerer Merkmale
+
+Geht man davon aus, dass die Krone meist schneller und sensibler auf
+Umweltveränderungen und Schäden reagiert als der Stamm, so das
+Auseinanderklaffen der Ergebnisse beider Verfahren bei diesen recht
+alten Bäumen nicht verwunderlich. Wahrscheinlich deuten sich hier in
+der Kronenarchitektur bereits Entwicklungen an, die vom Stamm
+erst später, oder aber auch gar nicht nachvollzogen werden, wenn sich
+der Baum wieder erholen kann. Die unterschiedlichen Einschätzungen von
+Krone und Stamm spiegeln dann die Entkopplung des Längenzuwachses der
+Oberkrone vom Zuwachs des Stammes im Verlaufe einer viele Jahre
+andauernden Umstrukturierung der Krone wider.
+
+Gerade bei alten Bäumen ist also die Kombination mehrerer Merkmale besonders wertvoll, denn die Zukunft eines Baumes, dessen Krone mit
+dem Rückzug beginnt, während Stamm und Stammbasis eine hohe Vitalität
+aufweisen, muss sehr viel positiver eingeschätzt werden, als bei einem
+Baum, bei dem alle Indikatoren in die gleiche, negative Richtung
+weisen.
+
+Das Merkmal "traumatisches Ereignis" nimmt unter den Merkmalen eine
+Sonderstellung ein, da es im Gegensatz zu den anderen eine äußere
+Ursache für die mögliche Minderung der Vitalität erfasst, während die
+anderen Reaktionen der Bäume abbilden. Zumindest eine Studie legt
+nahe, dass dieser Ansatz gerechtfertigt ist [@Hartmann2008b].
+
+Den Blick des Sachverständigen systematisch auf für die
+Beurteilung der Vitalität wichtige Details zu lenken und diese
+qualitativ zu bewerten, hat sich als praktikabel erwiesen. Die Ergebnisse
+lassen sich zwar offensichtlich bisher nicht nach einer einfachen
+Formel verrechnen, sind aber dennoch die Basis für eine konsistente
+Bewertung des Baumes.
+
+Andere, weiter entwickelte Systeme [z. B. @Callow2018] enthalten
+empirische Gewichtungsfaktoren für einzelne Merkmale und lassen so
+eine einfache Aufsummierung der Einzelwerte zu. Bei einer
+Weiterentwicklung des von @Weihs2017 vorgeschlagenen Systems in dieser
+Richtung könnten artspezifische Gewichtungsfaktoren die Einschätzung
+der Vitalität verbessern. Zudem muss nachvollziehbar werden, wie die
+Ausprägung einzelner Parameter jeweils einer Ordinalskala zugeordnet
+werden. Bisher fehlt eine in der Praxis umsetzbare Anleitung, wie sie
+z. B. für die Kronentransparenz für die Waldzustandserhebung verwendet
+wird.
+
+In Abb. \@ref(fig:WundholzBaumartWeihs) wurde die Verteilung der
+Vitalitätsstufen gegen die Summe der mit 3 bewerteten Merkmale
+aufgetragen. Jedenfalls für die Buche zeigt sich ein Zusammenhang
+zwischen diesem Wert und der Vitalitätsstufe.
+
+
+```{r WundholzBaumartWeihs, fig.cap="Zusammenhang zwischen der Summe positiv bewerteter Merkmale und der Vitalitätseinstufung von U. Weihs. Wurde bei der Buche nur ein Merkmal mit 3 eingestuft, so wurden die Bäume in die Vitalitätsstufen 1,5 und 2 eingeordnet (rechtes oberes Feld). Wurden dagegen 3 oder 4 Merkmale mit 3 eingestuft, so wurden die meisten Bäume die Vitalitätsstufe 0 eingeordnet (untere vier Felder)."}
+	knitr::include_graphics("../../../Forschung/Vitalitaet/docs/figure/Vergleich_AR_UW.Rmd/VsWeihsSumme-1.png")
+```
+
+Möglicherweise reicht aber bereits ein zweistufiges Vorgehen, bei
+dem der Baum erst einmal anhand der gut dokumentierten und
+nachvollziehbaren Methode der Kronenarchitektur eingestuft
+wird. Weisen bei einem solchermaßen als wenig vital eingestuften Baum
+aber Merkmale des Stammes auf einen kräftigen Zuwachs hin, sollte die
+Vitalitätsstufe abschließend angehoben werden. Dafür wäre es nicht,
+wie hier geschehen, unbedingt erforderlich, bis zu 11 Merkmale auf
+einer vierstufigen Skala zu erfassen.
+
+
+## Schlussfolgerungen für die Praxis
+
+Da zu keinem der beiden Verfahren ausreichend Untersuchungen dazu
+vorliegen, wie ihre Einschätzungen der Vitalität mit den wichtigen
+Zielgrößen wie Überlebensfähigkeit und Wachstum in der Zukunft
+zusammenhängen, ist es nicht möglich zu entscheiden, ob eines der
+beiden Verfahren besser als das andere ist.
+
+In der vorliegenden Untersuchung konnte jedoch gezeigt werden, dass
+die Einstufung der Vitalität unter Berücksichtigung mehrerer Merkmale in
+sich schlüssig und auch praktisch umsetzbar ist. Viele Sachverständige
+beurteilen die Vitalität eines Baumes auch heute schon nicht nur
+anhand eines Merkmals. Eine systematische Bewertung von Stamm und
+Stammfuß ist sicher eine sinnvolle Ergänzung der Beurteilung der
+Oberkrone, da sich nicht alle für die Beurteilung des Baumes wichtigen
+Vorgänge in Veränderungen der Kronenstruktur äußern.
+
+Die Fortentwicklung der Methoden der Vitalitätseinschätzung unter
+Berücksichtigung internationaler Forschungsergebnisse kann zu einer
+Einstufung führen, die gerade alten Bäumen besser gerecht wird. Dabei
+sollten insbesondere solche Merkmale verwendet werden, die einen
+nachgewiesenen Zusammenhang mit wichtigen Zielgrößen der
+Baumkontrolle haben.
+
+Die Einschätzung der Vitalität anhand der Kronenarchitektur ist
+derzeit am besten dokumentiert und reproduzierbar. Sie sollte daher
+die Grundlage der Vitalitätsbeurteilung bleiben. Wenn jedoch weitere
+Merkmale des Baumes eine andere Vitalität als von der
+Kronenarchitektur vorgegeben anzeigen, dann sollte in Zukunft die
+Vitalitätseinstufung entsprechend angepasst werden. Bis weitere
+Untersuchungen vorliegen, könnten Merkmale wie Wund-, Kompensations-
+und Reaktionsholzbildung auch auf einer zweistufigen Skala bewertet
+werden und so in einfacher Form in die Vitalitätsstufe einfließen.
+
+
+<!--  LocalWords:  Vitalitätsstufen
+ -->

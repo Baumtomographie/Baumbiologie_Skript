@@ -11,10 +11,11 @@ book:
     - intro.qmd
     - WHH.qmd
     - Stress.qmd
+    - Vitalitaet.qmd
     - summary.qmd
     - references.qmd
 
-bibliography: references.bib
+bibliography: ["d:/users/Steffen/Documents/Literatur/BiBTeX/Alles.bib"]
 lang: de
 
 format:
