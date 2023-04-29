@@ -1,9 +1,23 @@
-# Introduction
+# Einleitung
 
-This is a book created from markdown and executable code.
+Bäume sind als autotrophe Organismen nur von wenigen anorganischen Ressourcen abhängig. 
+Deren Quellen sind in der Regel weit voneinander entfernt. 
+Daher müssen diese Ressourcen oft über große Entfernungen transportiert werden. 
+Die benutzten Wege müssen sicher genug sein, um dem Eigengewicht der Bäume und starken Winden stand zu halten.
 
-See @knuth84 for additional discussion of literate programming.
+## Was ist so besonders an Bäumen?
 
-```{r}
-1 + 1
-```
+- ihre Größe
+- ihre Langlebigkeit
+
+## Übersicht
+- Baumbiologie
+  - Ressourcenerwerb
+  - Transport
+  - Stabilität
+- Baumbiologie zur Beurteilung von Gefahrenbäumen
+  - Trends in der Holzdichte
+  - Schwankungen im Feuchtigkeitsgehalt des Holzes
+  - Muster der Elementkonzentrationen
+  - Biomechanik
+

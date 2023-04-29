@@ -2,22 +2,24 @@ project:
   type: book
 
 book:
-  title: "Baumbiologie_Skript"
-  author: "Norah Jones"
-  date: "29.4.2023"
+  title: "Angewandte Baumbiologie"
+  author: "Steffen Rust"
+  date: last-modified
+  date-format: D. MMMM YYYY
   chapters:
     - index.qmd
     - intro.qmd
+    - WHH.qmd
+    - Stress.qmd
     - summary.qmd
     - references.qmd
 
 bibliography: references.bib
+lang: de
 
 format:
   html:
     theme: cosmo
-  pdf:
-    documentclass: scrreprt
 
 
 

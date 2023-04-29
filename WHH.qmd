@@ -1,0 +1,134 @@
+# Wasserhaushalt der Bäume
+
+Das Leben auf der Erde entstand im Wasser. Auch jetzt sind noch alle wesentlichen biochemischen Reaktionen nur im wässrigen Milieu möglich. Die meisten Landpflanzen sind nicht austrocknungsfähig und haben in Blättern und Früchten hohe Wassergehalte von 85 bis 90 Prozent.
+
+Um diesen hohen Wassergehalt aufrechtzuerhalten, muss ständig Wasser aus dem Boden aufgenommen werden, denn ein Baum verbraucht normalerweise deutlich mehr Wasser pro Tag, als er in seinem Stamm speichern kann. Das Wasser wird verbraucht, weil das Kohlendioxid, der Ausgangsstoff für die Photosynthese, nur dann aufgenommen werden kann, wenn die Spaltöffnungen (Stomata) geöffnet sind. Für ein Teil Kohlendioxid, das die Blätter aufnehmen, entweichen jedoch im Mittel 200 Teile Wasser in die Luft (Nobel 1983). Im Gegensatz zu den meisten anderen Pflanzen finden Wasseraufnahme und -abgabe bei Bäumen oft sehr weit voneinander entfernt statt. Diese Entfernung verursacht Probleme, deren Lösungen die Gestalt der Bäume grundlegend geformt haben.
+
+## Funktionen des Wassers im Baum
+
+Wasser hat in Pflanzen viele Funktionen: Es ist Lösungsmittel, Medium für chemische Reaktionen und Ausgangsstoff für die Photosynthese. Außerdem ist es das Transportmittel für Nährsalze und zudem der Stoff, der den größten Teil des Volumens des lebenden Gewebes ausmacht und so Zellwachstum und Zellinnendruck (Turgor) und damit die Form der nicht verholzten Gewebe aufrechterhält. Fast die gesamte Wassermenge, die ein Baum aufnimmt, wird jedoch durch die Transpiration wieder an die Atmosphäre abgegeben (Larcher 2001).
+
+## Wasseraufnahme
+
+Neben der Verankerung des Baumes im Boden, der Nährstoffaufnahme, der Reservestoffspeicherung und der Stoffsynthese ist die Wasseraufnahme eine entscheidende Funktion des Wurzelsystems. Die Verteilung der Wurzeln entscheidet darüber, aus welchen Bodenschichten die Pflanzen Wasser und Nährelemente aufnehmen können. Sie ist von der Baumart, der Bestandesstruktur, dem Klima sowie Bodeneigenschaften wie Dichte und Durchlüftung abhängig (Bresinsky et al. 2008).
+
+Unterirdisch erschließen Bäume oft eine deutlich größere Fläche als oberirdisch, sodass sich ihre Wurzelsysteme überlappen. In diesen Überlappungsbereichen konkurrieren sie um Wasser und Nährstoffe. In der Regel nimmt die Verteilung der Feinwurzeln mit der Bodentiefe exponentiell ab, da in den oberen Horizonten die Verfügbarkeit von Wasser, Sauerstoff und Nährstoffen am höchsten ist (Schulze et al. 2002).
+
+In Mischbeständen konnte beobachtet werden, dass sich die Wurzelsysteme ausweichen, indem eine der beteiligten Baumarten ihre höchste Feinwurzeldichte erst in tieferen Bereichen erlangt (Leuschner et al. 2001, Rust 1991). Bei ausgeprägter Bodenvegetation können auch die Wurzeln der Gräser diejenigen der Bäume in tiefere Schichten verdrängen. Eingriffe wie Bodenbearbeitung oder Bodenverdichtung wirken fördernd oder hemmend auf das Wurzelwachstum. Das meiste Wasser wird an den Spitzen der Feinwurzeln aufgenommen. Deren Oberfläche wird durch Wurzelhaare und die Mykorrhiza vergrößert.
+
+Wie viel Wasser an einem Standort verfügbar ist, hängt wesentlich vom durchwurzelten Bodenvolumen, der Bodenart und dem Niederschlag ab. Das Bodenvolumen wird in der Stadt meist durch die Größe der Pflanzgrube vorgegeben, da das Material außerhalb oft kaum durchwurzelbar ist.
+
+Nach einem Niederschlag verbleibt nur das Haftwasser im Boden, der Rest sickert in das Grundwasser oder fließt zur Seite hin ab. Die Menge dieses Haftwassers wird als Feldkapazität bezeichnet. Die nutzbare Feldkapazität des effektiven Wurzelraumes ist derjenige Anteil dieses Wassers, der von den Wurzeln erreicht und aufgenommen werden kann. Sie hängt wesentlich von der Korngrößenverteilung, der Lagerungsdichte, dem Skelettanteil und dem Anteil an organischen Bestandteilen sowie davon ab, wie tief der Boden durchwurzelbar ist. Sie ist bei grundwasser- und staunässefreien Böden das wesentliche Maß für die pflanzenverfügbare Bodenwassermenge und bestimmt zu einem großen Teil die Trockenstressanfälligkeit eines Baumes auf diesem Standort. Bei grundwasserbeeinflussten Böden kommt noch der kapillare Aufstieg von Grundwasser hinzu. Von diesem Wasser kann der Baum jedoch nur den Anteil aufnehmen, der oberhalb des permanenten Welkepunktes gehalten wird. Bei staunassen Böden steht zeitweilig mehr Wasser zur Verfügung als die nutzbare Feldkapazität des effektiven Wurzelraums. Die pflanzenverfügbare Wassermenge eines Bodens oder Pflanzsubstrates ist bei Lehm am höchsten und bei grobem Sand am geringsten. Der hydraulische Widerstand des Bodens steigt mit abnehmendem Wassergehalt exponentiell an (Scheffer und Schachtschabel 2018).
+
+## Wassertransport
+
+Einmal von den Wurzeln aufgenommen, wird das Wasser im Xylem nach oben transportiert. Dies geschieht in langgestreckten, abgestorbenen Zellen, deren Zellwand häufig durch Spiralen oder Ringe verstärkt ist, um unter dem starken Sog der Blätter nicht zu kollabieren. Der Innendurchmesser dieser Zellen beträgt bei Nadelbäumen bis zu 0,03 mm, bei zerstreutporigen bis zu 0,06 mm und bei ringporigen Baumarten bis zu 0,2 mm. Bei den ringporigen Baumarten, z.B. Eichen, Eschen, Ulmen, Robinie und Esskastanie, ist daher die Flussgeschwindigkeit deutlich höher, nämlich bis zu 40 Meter in einer Stunde, während es bei den Nadelbäumen nur bis zu 2 Meter je Stunde sind (Larcher 2001). In den über 100 Meter hohen Mammutbäumen Kaliforniens braucht das Wasser im Mittel 10 Tage von der Wurzel bis in die Krone. Ein Teil des aus dem Boden aufgenommen Wassers kann durch die Wurzeln an anderer Stelle wieder in den Boden abgegeben werden.
+
+![Stark vereinfachte elektrische Analogie des Wasserflusses durch eine Pflanze. K bezeichnet hydraulische Leitfähigkeiten, g Gasleitfähigkeiten und Y Wasserpotenziale. VPD ist das Sättigungsfeuchtedefizit der Luft, E die Transpirationsrate.  kennzeichnet Leitfähigkeiten, welche die Pflanze regeln kann (nach SACK und HOLBROOK 2006).](images/ohm3.png){#fig-Stromkreisanalogie fig-alt="Stromkreisanalogie"}
+
+Den Wassertransport im Baum veranschaulicht man meist mit einer Analogie zum Ohm'schen Gesetz aus der Elektrizitätslehre, welches besagt, dass der Stromfluss durch einen Leiter umso größer ist, je größer die angelegte Spannung und die elektrische Leitfähigkeit des Leiters sind (Gradmann 1928). Die Leitfähigkeit im Baum ist eine hydraulische, und anstelle des elektrischen Potenzials (Spannung) treiben Wasserpotenziale den Wasserfluss durch den Baum (van den Honert 1948, @fig-Stromkreisanalogie).
+
+### Physikalische Grundlagen der Wasserleitung
+
+Schon 1727 stellte Hales fest, dass es die von der Sonne angetriebene Verdunstung des Wassers aus den Blättern sei, durch die das Wasser aus dem Boden durch die Pflanze gezogen werde. Die Luft hat außerhalb der Blätter meistens einen geringeren Wasserdampfgehalt als in den Höhlungen der Spaltöffnungsapparate, sodass bei geöffneten Spaltöffnungen Wasserdampf aus den Blättern herausdiffundiert. Dieser wird durch Verdunstung von Wasser aus den Zellwänden dieser Höhlungen ersetzt, dieses wiederum durch Wasser aus dem Inneren der Zellen. Deren Konzentration an gelösten Stoffen steigt daraufhin, sodass ihr osmotisches Potenzial sinkt und sie Wasser aus dem Xylem ziehen können. Dieses wiederum zieht daraufhin Wasser durch die Wurzeln aus dem Boden. Grundlage des Transports sind also kontinuierliche Wasserfäden zwischen den transpirierenden Blättern und den Wasser aufnehmenden Wurzeln, die durch die starke Kohäsion der Wassermoleküle untereinander ermöglicht werden (Askenasy 1895, Dixon und Joly 1895).
+
+Der Wassertransport erfolgt daher passiv, das heißt, der Baum muss für den weitaus größten Teil des Transportweges keine Energie aufwenden. Die Energie für den Sog stammt von der Sonne. Kapillarkräfte könnten das Wasser im Baum höchstens 1 Meter heben. Der Aufstieg des Wassers im Frühjahr wird allerdings von Unterschieden des osmotischen Potentials angetrieben, wodurch auch das "Bluten" nach Schnittmaßnahmen zu dieser Jahreszeit zu erklären ist.
+
+### Hydraulische Architektur
+
+Die Wassermenge, die ein Baum transpiriert, hängt davon ab,
+
+-   wie viel Energie für die Transpiration verfügbar ist,
+-   wie groß die verdunstende Fläche ist,
+-   wie viel Wasser zur Verfügung steht und aufgenommen werden kann und
+-   wie gut dieses Wasser zu den Orten des Verbrauchs geleitet werden kann.
+
+Das Zusammenwirken der Wasser aufnehmenden, transportierenden und abgebenden Strukturen des Baumes beschreibt seine hydraulische Architektur (Zimmermann 1983). Nachfolgend werden einige Prinzipien und Kenngrößen der hydraulischen Architektur erläutert.
+
+### Hydraulische Leitfähigkeit
+
+Die hydraulische Leitfähigkeit eines Pflanzenteiles beschreibt, wie gut es Wasser leiten kann. Beim Holz hängt diese Leitfähigkeit vom Durchmesser und der Anzahl der leitenden Elemente sowie vom Widerstand im Übergangsbereich zwischen zwei Elementen ab. Die Leitfähigkeit einer Kapillare steigt mit der vierten Potenz ihres Durchmessers an, sodass wenige große Gefäße, wie sie bei den Ringporern vorkommen, eine höhere Leitfähigkeit haben als die vielen kleinen Tracheiden der Nadelbäume. Obwohl diese großen Tracheen meist bereits im ersten Winter durch Embolien ihre Leitfähigkeit verlieren, gibt es oft keine systematischen Unterschiede zwischen den radialen Saftstromprofilen der Ring- und Zerstreutporer (Pataki et al. 2011).
+
+Die hydraulische Leitfähigkeit sinkt rasch von der Stammbasis bis zu den Blättern. Die Blätter haben im gesamten Baum den weitaus höchsten Anteil am Widerstand, der dem Wasserfluss entgegengesetzt wird -- bis zu 80 Prozent des gesamten Widerstandes des Baumes (Yang und Tyree 1994). Im Vergleich tragen Astanbindungen, trotz ihrer anatomischen Besonderheiten, nicht wesentlich zum Widerstand bei (Tyree und Alexander 1993).
+
+### Leitfähigkeitsverlust
+
+Hohe hydraulische Leitfähigkeit kann Bestandteil einer Strategie der Trockenstressvermeidung sein. Die Leitfähigkeit des Xylems ist allerdings nicht konstant, sondern kann bei Trockenstress und Frost durch das Auftreten von Embolien bis zum völligen Ausfall vermindert werden, denn luftgefüllte (embolisierte) Gefäße leiten kein Wasser mehr. Auch Verletzungen des Splintholzes führen zu Embolien.
+
+Bei Trockenstress wird die hydraulische Leitfähigkeit durch Embolien vermindert, deren Auftreten ganz wesentlich von der Holzanatomie, insbesondere der Struktur der Tüpfel, aber auch von der Holzdichte abhängt. Nach der „air-seeding"-Hypothese (Zimmermann 1983) wird bei geringen Wasserpotenzialen Luft aus angrenzenden luftgefüllten Gefäßen durch die Tüpfel in bisher wassergefüllte Gefäße gezogen.
+
+Auch wenn das Wasser in den Gefäßen gefriert und wieder auftaut, können Embolien auftreten. Die Empfindlichkeit für Embolien durch Frost-Tau-Zyklen hängt stark mit dem Gefäßdurchmesser zusammen. Ringporige Baumarten der gemäßigten Breiten verlieren oft schon beim ersten Frost im Herbst fast ihre gesamte hydraulische Leitfähigkeit.
+
+Die Anfälligkeit für Embolien hängt auch von der Wasserverfügbarkeit im Herkunftsgebiet und den Anzuchtbedingungen in der Baumschule ab Kavanagh et al. 1999, Rust und Solger 2005) und scheint überwiegend genetisch bestimmt zu sein. Hohe Sicherheit bei der Vermeidung von Embolien kann für die Pflanzen mit geringerer Leitfähigkeit und höheren Holzdichten verbunden sein (Pittermann et al. 2006). Gasgefüllte Zellen können auch wieder repariert werden (Trifilo 2014).
+
+### Huberwert
+
+Schon im 16. Jahrhundert beschrieb Leonardo da Vinci einen gesetzmäßigen Zusammenhang zwischen den Splintflächen innerhalb eines Baumes. Er nahm an, dass die Summe aller Splintflächen entlang des Weges zwischen Wurzel und Zweigspitzen konstant sei. Obwohl diese Theorie, die in den 1960er-Jahren in abgeänderter Form als „pipe model" wieder aktuell wurde, Grundlage vieler Untersuchungen der letzten Jahrzehnte war, hat sich inzwischen gezeigt, dass sie zu stark vereinfachte.
+
+Bruno Huber, Professor für Forstbotanik in Tharandt, untersuchte als Erster das Verhältnis aus Stammquerschnitt und der durch diesen versorgten Blattmasse und Blattfläche, daher heißt das Verhältnis von Splintfläche zu Blattfläche heute Huberwert (Zimmermann 1983). Dieser Wert ist ein wichtiges, da einfach zu messendes Maß zur Beschreibung der Leistungsfähigkeit des Wassertransportsystems einer Pflanze.
+
+Vergleicht man Bäume oder Teile von ihnen miteinander, so werden (unter sonst gleichen Bedingungen) die Blätter an Teilen mit einem höheren Huberwert besser mit Wasser versorgt. Innerhalb eines Baumes steigt der Huberwert in Richtung Wipfel, außerdem wird der Leittrieb gegenüber den Seitenzweigen bevorzugt (Huber 1938). Nach dem gleichen Muster variiert auch der Wasserbedarf der Blätter.
+
+Die Struktur der Bäume und damit auch der Huberwert werden durch eine Reihe von Umweltfaktoren beeinflusst. So verschieben Änderungen der Temperatur, der Nährstoff- oder Wasserverfügbarkeit oder aber der Lichtverhältnisse das Verhältnis von Blatt- und Wurzelmasse (Rust 1999). Daher gibt es keine artspezifischen Huberwerte.
+
+### Integration, Redundanz und Kompartimentierung
+
+In der Regel bildet das Gefäßsystem eines Baumes ein einziges, integriertes Netzwerk, in dem jede Wurzel mehr oder weniger direkt mit allen Ästen verbunden ist. Ausnahmen sind wohl nur junge Bäume ringporiger Arten oder sehr tief angesetzte Zwiesel, bei denen ein Kronenbereich mehr oder weniger einer Wurzel zugeordnet werden kann. Auch in dünnen Zweigen einiger Baumarten wurden Hinweise darauf gefunden, dass das Wasser in mehr oder weniger getrennten Sektoren des Zweigquerschnitttes transportiert wird (Zanne et al. 2006). Sonst kann aber jeder Ast von jeder Wurzel mit Wasser versorgt werden.
+
+In jeder Achse (Stamm, Zweig, Blattstiel) sind immer mehrere Leitelemente vorhanden. Daher können die Blätter auch beim Ausfall eines Teils der Leitelemente, z. B. durch Embolien, Insektenfraß, Fäulen oder Anfahrschäden, weiter mit Wasser versorgt werden (Lyr et al. 1992).
+
+Die Leitelemente sind zwar ein Netzwerk, Embolien können jedoch effektiv begrenzt werden. Bei den Nadelbäumen z. B. dichten die Hoftüpfel die wassergefüllten Tracheiden gegen den Lufteinbruch aus benachbarten, embolisierten Tracheiden ab (Zimmermann 1983).
+
+### Wurzel/SprossVerhältnis
+
+Die Fähigkeit, Wasser aufzunehmen, muss in einem ausgewogenen Verhältnis zum Wasserbedarf stehen. Der Wasserbedarf eines Baumes lässt sich in erster Näherung durch seine Blattfläche beschreiben, da bis zu einem Schwellenwert die Transpiration proportional zu ihr ist. Die Wasseraufnahmefähigkeit quantitativ zu beschreiben, ist sehr viel schwieriger. Meist behilft man sich mit der Wurzelmasse, wohl wissend, dass nur ein winziger Bruchteil davon tatsächlich Wasser aufnimmt.
+
+Bei der Verteilung der Assimilate auf die Organe erscheint es plausibel, dass der Baum solche Organe fördert, die für den Erwerb derjenigen Ressourcen benötigt werden, die im Vergleich zu anderen unzureichend zur Verfügung stehen. Bei Lichtmangel sollte also das Blattwachstum, bei Wasser- oder Stickstoffmangel aber das Wurzelwachstum gefördert werden. Experimentelle Belege für solche Veränderungen gibt es allerdings nur für Stickstoff und Phosphor (Reich 2002).
+
+Beschnittene Bäume können weniger Assimilate bilden, die vorrangig für den Wiederaufbau der ursprünglichen Blattfläche verwendet werden, denn wenn man junge Bäume beschneidet oder teilweise entlaubt, dann stellt sich relativ schnell wieder das Wurzel/Spross-Verhältnis vergleichbarer unbeschnittener Bäume ein (Reich 2002). Daher kann ein Pflanzschnitt nicht mit dem Ausgleich des (in der Praxis sowieso nicht messbaren und daher unbekannten) Wurzel/Spross-Verhältnisses oder der Verminderung der Transpiration begründet werden, denn man nimmt dem Baum dadurch einen Teil der Assimilationsfläche, die er zum Ausgleich des Wasserverlustes dringend benötigt. Stattdessen sollten Bäume nach der Pflanzung ausreichend gewässert werden. Der Pflanzschnitt dient in erster Linie der Korrektur des Kronenaufbaus. Da in der Stadt in der Regel zur Herstellung des Lichtraumprofils im Laufe der Jahre alle bei der Pflanzung vorhandenen Äste entnommen werden, sind größere Eingriffe zur Korrektur von Fehlentwicklungen bei der Pflanzung selten erforderlich.
+
+### Hydraulische Limitierung
+
+Seit vielen Jahren wird angenommen, dass die Produktivität von Bäumen mit zunehmendem Alter abnehmen würde (Yoder et al. 1994). Vermutet wird unter anderem, dass mit zunehmendem Bestandesalter immer mehr Nährelemente in den Bäumen festgelegt würden und damit einerseits die Effizienz des Blattgaswechsels sinke und andererseits mehr Kohlenstoff in die Wurzeln investiert werden müsste, um ausreichend Nährelemente aufnehmen zu können. Weitere Ursachen könnten die Alterung der Meristeme oder die Zunahme der Respiration relativ zur Assimilation infolge des steigenden Verhältnisses von Holzmasse zu Blattmasse sein. Ein weiterer Grund für eine Abnahme der oberirdischen Bestandesproduktivität könnte eine im Alter erhöhte Zuteilung von Kohlenstoff an die Wurzeln sein, die notwendig wäre, um die mögliche Erhöhung des oberirdischen hydraulischen Widerstandes mit zunehmender Baumhöhe auszugleichen. Die Respirationshypothese, die Alterungshypothese und auch die Nährelementlimitierungshypothese konnten allerdings durch Untersuchungen nicht bestätigt werden. Messungen an den höchsten und ältesten Bäumen der Erde zeigen zudem, dass bei diesen das Wachstum stetig weiter zunimmt, und die Vorstellung der abnehmenden Produktivität vermutlich auf unzureichenden Messmethoden beruht (Sillet et al. 2010).
+
+Unter Baumpflegern hört man manchmal die Aussage, dass ein Baum „einfach zu hoch" geworden sei. In der Botanik ist diese Annahme als Hypothese der hydraulischen Limitierung bekannt (Ryan und Yoder 1997). Sie nimmt an, dass mit zunehmendem Alter die Länge des Weges des Wassers von der Wurzel bis zum Blatt anstiege und außerdem die Leitfähigkeit des Gewebes absinke. Dadurch würden letztendlich die Stomataleitfähigkeit der Blätter und damit die Produktivität vermindert. Als Beleg für diese Hypothese werden Untersuchungen an Kiefern angeführt, die an alten Bäumen deutlich geringere hydraulische Leitfähigkeiten und Transpirationsraten fanden als an jungen.
+
+In einer Reihe von Experimenten konnte allerdings gezeigt werden, dass die hydraulische Leitfähigkeit positiv mit der Stomataleitfähigkeit und der Transpiration korreliert ist (Rust und Roloff 2002b). Die Stomataleitfähigkeit und die hydraulische Leitfähigkeit sind durch die Minderung der hydraulischen Leitfähigkeit durch Embolien und deren Verhinderung durch das rechtzeitige Schließen der Stomata verknüpft (Tyree und Sperry 1988).
+
+Messungen und Modelle scheinen jedoch die zentrale Annahme der Hypothese der hydraulischen Limitierung, nämlich das die hydraulische Leitfähigkeit mit zunehmender Pfadlänge abnähme, zu widerlegen: Wenn der Durchmesser der Gefäße von den Wurzeln bis in die Blätter hinreichend abnimmt, wird der hydraulische Widerstand unabhängig von der Länge des Pfades, außerdem können die Auswirkungen wachsender Baumhöhe durch steigende Huberwerte, hydraulische Leitfähigkeit und Stammspeicher für Wasser kompensiert werden (Becker et al. 2000, Petit et al. 2010). Eine durchaus plausible alternative Erklärung könnte sein, dass die Endhöhe weitgehend genetisch bestimmt ist. Ab dieser Höhe bringt weiteres Höhenwachstum keinen Konkurrenzvorteil mehr und die Assimilate werden verstärkt in die Vermehrung investiert. Auch könnten alte Bäume größere Stresstoleranz auf Kosten der Effizienz anstreben.
+
+### Vitalität, Zweigstruktur und hydraulische Leitfähigkeit
+
+Die Veränderungen in der Kronenarchitektur, die man bei Bäumen abnehmender Vitalität und zunehmendem Alter beobachten kann, beeinträchtigen die Fähigkeit der Bäume, das Wasser zu den Blättern zu transportieren, erheblich.
+
+Die hydraulische Leitfähigkeit der Zweige sinkt mit abnehmender Vitalität (Rust und Hüttl 1999, Rust et al. 2004). Die maximale Nettophotosyntheserate eines Zweiges sinkt wiederum mit der Leitfähigkeit für Wasser (Rust und Roloff 2002b). Daher können die Blätter an Zweigen geringer Vitalität im Vergleich zu vitalen Zweigen nur in weit geringerem Maße Photosynthese betreiben.
+
+Die abnehmende Leitfähigkeit kann durch die Zunahme der Häufigkeit von „Flaschenhälsen" im Wasser leitenden Gewebe erklärt werden. Allgemein sinkt mit abnehmender Vitalität und zunehmendem Alter die Trieblänge, wodurch sich die Häufigkeit von Übergängen zwischen zwei Jahrestrieben, die einen großen Widerstand bilden, erhöht. Bei der Eiche steigt zusätzlich die Häufigkeit von Trennungszonen mit besonders geringen Gefäßdurchmessern. Als Reaktion auf die verminderte Leitfähigkeit muss der Gaswechsel gesenkt werden, da der erhöhte Widerstand bei gleicher Spaltöffnungsweite zu größerem Trockenstress in den Blättern führt. Von Bedeutung ist dieser Effekt aber nur bei den dünnsten Zweigen (Rust und Hüttl 1999, Rust et al. 2004).
+
+![Modell zu den Auswirkungen von Stress auf Strukturen und Prozesse des Wasserhaushaltes.](images/Spirale.png){#fig-Sirale}
+
+Wenn durch Alterung, Trockenstress, Schädlinge oder Schadstoffeintrag die Kronenarchitektur derart verändert wird, sinkt damit auch die Fähigkeit der Bäume, Wasser zu ihren Blättern zu transportieren. Sie werden dadurch anfälliger für weitere Beeinträchtigungen ihrer Vitalität, da sie ihre Spaltöffnungen für die Aufnahme von Kohlendioxid nicht mehr so weit oder lange geöffnet halten können wie voll vitale Bäume, ohne größeren Trockenstress in Kauf zu nehmen. Damit laufen sie Gefahr, weiterhin Triebe geringer Länge zu bilden und damit ihre Kronenarchitektur weiter zu verschlechtern. Es kann also ein Teufelskreis entstehen, der den Baum oder einen Teil seiner Zweige/Krone letztendlich zum Absterben bringt (@fig-Sirale, Rust und Roloff 2001).
+
+### Eingriffe in die hydraulische Architektur
+
+Die hydraulische Architektur bei Stadtbäumen wird häufig durch menschliche Eingriffe verändert: Durch Schnittmaßnahmen werden Blattfläche und Transportweglänge verringert und Huberwerte und Wurzel/Spross-Verhältnis erhöht. Ein Beweggrund für derartige Eingriffe ist der Wunsch, die Wasserversorgung der verbleibenden Blätter zu verbessern, indem bei alten Bäumen der Transportweg für das Wasser verkürzt wird.
+
+Bei Bäumen mit abnehmender Vitalität ist in der Regel der Längenzuwachs der Triebe recht gering. Unsere Untersuchungen haben gezeigt, dass dadurch die hydraulische Leitfähigkeit dieser Zweige erheblich abnehmen kann. Werden diese Zweige entfernt und durch neue mit größerem Zuwachs und damit höherer Leitfähigkeit ersetzt, dann kann vermutlich die Produktivität der Krone erhöht werden.
+
+Jedoch stehen zur Versorgung der Wurzeln bis zum Ersatz der entnommenen Blattfläche weniger Kohlenhydrate zur Verfügung, sodass das Wurzelwachstum bei stärkeren Eingriffen in die Krone beeinträchtigt werden könnte. Außerdem hat der Stamm nur einen sehr geringen Anteil am Gesamtwiderstand des Baumes, der dem Wasserfluss entgegengesetzt wird, und auch die Baumhöhe, die in unseren Breiten erreicht wird, bedingt nur einen Bruchteil der Absenkung des Wasserpotenzials der Blätter. Daher sind solche Eingriffe wohl nur dann sinnvoll, wenn der Baum bereits selbst mit der Bildung einer Sekundärkrone begonnen hat. „Zu hoch für den Wassertransport" werden Bäume bei uns jedenfalls nicht.
+
+## Wasserabgabe
+
+Transpiration ist die Wasserabgabe in Dampfform durch Oberflächen der Pflanze, die mit Luft in Berührung sind. Bei Sprosspflanzen geschieht dies im Wesentlichen durch die Spaltöffnungen und zu einem geringen Teil durch die Cuticula der Blätter (Larcher 2001).
+
+Die Transpiration eines Baumes wird durch den Verdunstungsanspruch der Luft angetrieben, durch den Vorrat an verfügbarem Wasser begrenzt und durch die hydraulische Architektur sowie physiologische Prozesse modifiziert (Rust 1999). Sie kann bei solitären Bäumen mehrere hundert Liter am Tag erreichen.
+
+### Umweltfaktoren
+
+Verdunstung benötigt Energie, die dem Wasser durch Strahlung oder als Wärme zugeführt wird. Daher bestimmen in unseren Breiten im Wesentlichen die verfügbare Strahlungsenergie, die Luftfeuchtigkeit, die Temperatur und die Windverhältnisse die Höhe der Transpirationsrate.
+
+### Steuerung durch den Baum
+
+Während die Aufnahmefähigkeit der Luft für Wasserdampf und die Verfügbarkeit des Bodenwassers vom Baum kaum beeinflussbar sind (z. B. durch das Erschließen eines größeren Bodenvolumens durch Wurzelwachstum oder die Umverteilung des Bodenwassers), kann die Leitfähigkeit zur Optimierung des Gaswechsels kurz- und langfristig reguliert werden. Die kurzfristige Regulation der Baumleitfähigkeit wird durch die Stomata erreicht (@fig-fdnwk). Sie haben die Funktion, den Wasserverlust der Pflanze zu kontrollieren und gleichzeitig die Photosynthese zu ermöglichen. Während man vor einiger Zeit noch die Minimierung des Wasserverlustes relativ zur aufgenommenen Menge CO2 als wesentliche Aufgabe der Stomata sah, sprechen theoretische Überlegungen und neuere Ergebnisse aus Felduntersuchungen für eine Rolle der Stomata bei der Vermeidung schädlicher Wasserdefizite und katastrophaler Embolien (Jones und Sutherland 1991). Trotz intensiver Forschung sind die Mechanismen der Regulation der Stomataleitfähigkeit durch biologische Mechanismen und physikalische Umweltfaktoren noch weitgehend ungeklärt. Die Leitfähigkeit der Stomata wird im Wesentlichen durch Faktoren wie Sonnenstrahlung, Kohlendioxidgehalt der Luft, Blattwasserversorgung, Luftfeuchtigkeit und Blatttemperatur beeinflusst (Schulze et al. 2002).
+
+![Drastische Verminderung der Transpiration, wenn das verfügbare Wasser im Boden einen Schwellenwert (hier etwa 0,3) unterschreitet (am Beispiel einer Kiefer, nach RUST 1999).](images/fdnwk.png){#fig-fdnwk}
