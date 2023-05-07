@@ -9,6 +9,7 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - 2015_OS_Baumstamm.qmd
     - WHH.qmd
     - Stress.qmd
     - Vitalitaet.qmd

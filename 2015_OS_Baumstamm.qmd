@@ -1,0 +1,105 @@
+# Biegebalken, Wasserleitung, Muskel oder Autobiographie? Die vielen Gesichter des Baumstammes
+
+Bäume tauschen Energie und Stoffe mit ihrer Umwelt aus, transportieren Stoffe über weite Strecken, oft entgegen der Schwerkraft, und widerstehen den mechanischen Kräften von Erdanziehung und Wind.
+
+Der Körper eines alten Baumes besteht zum größten Teil aus Holz, also einem einzigen Gewebe. Unser menschlicher Körper besteht dagegen aus vielen verschiedenen Geweben, von denen keines derart in den Vordergrund tritt wie das Holz der Bäume. Im Baum muss dieses eine Gewebe viele verschiedene Aufgaben erfüllen, meist sogar gleichzeitig. Bäume passen daher ihr Holz auf allen Ebenen der Anatomie und Morphologie daran an, multifunktional zu sein. In menschlichen Konstruktionen werden verschiedene Aufgaben oft räumlich und technisch getrennt.
+
+Bäume sind modular aufgebaut und können den Verlust eines großen Teiles ihrer Biomasse und Organe überleben. Da an vielen Stellen ihres Körpers Bildungsgewebe vorhanden sind oder bei Bedarf gebildet werden, können verlorene Teile ersetzt werden.
+
+In unserem Körper werden Organe und Gewebe ständig den aktuellen Anforderungen angepasst. Dagegen kann vom Baum einmal angelegtes Holz weder anatomisch noch in seinen mechanischen Eigenschaften wesentlich verändert werden. Anpassungen müssen durch neu angelegtes Holz erfolgen. Die Baumgestalt erzählt daher von den wechselnden Einflüssen der Umwelt und wie sich die Bäume im Rahmen ihrer genetischen Ausstattung daran angepasst haben (TREDICI 2002).
+
+Für den Baum erfüllt sein Stamm viele Funktionen. Er
+
+-   richtet die Krone zum Licht aus,
+-   hält die Krone oberhalb konkurrierender Individuen,
+-   transportiert Wasser, Nährelemente, Assimilate und Informationen,
+-   speichert Nährstoffe,
+-   betreibt Photosynthese und
+-   dient der vegetativen Fortpflanzung.
+
+Bei der Begutachtung von Bäumen steht oft nur eine der vielen Funktionen des Baumstammes im Vordergrund, meist ist es die mechanische, da oft die Bruch- und Standsicherheit beurteilt werden sollen. Obwohl wir es anders interpretieren, messen wir dabei meist Eigenschaften, die nur lose mit den Funktionen des Baumstammes für den Baum zusammenhängen (Abbildung 1).
+
+![Die Ziele eines Baumes unterschieden sich von denen der Menschen. Die häufig an Bäumen gemessenen Parameter hängen daher nur mittelbar mit den für den Baum relevanten zusammen (RUST 2014).](images/Abb1.svg){fig-alt="Funktionen des Baumstammes"}
+
+## Der Baumstamm als Biegebalken
+
+Oft werden Konzepte aus den Ingenieurwissenschaften ohne ausreichende Anpassung auf Bäume übertragen. Holz ist jedoch nicht nur anisotrop, d. h., seine mechanischen Eigenschaften sind in allen drei Raumrichtungen unterschiedlich, sondern zudem auch noch höchst variabel. Haben menschengemachte Werkstoffe meist in engen Grenzen schwankende, bekannte Materialeigenschaften, so ist das bei Holz nicht der Fall. Punktuell gemessene Kenngrößen sagen wenig über den Baum als Ganzes aus.
+
+Die Tragfähigkeit eines Baumstammes wird durch die Festigkeit des Holzes und seine Verteilung im Querschnitt bestimmt. Die meisten Baumuntersuchungsverfahren zielen darauf ab, eine oder beide dieser Eigenschaften zu messen. Deshalb ist es wichtig zu wissen, wie sie zusammenwirken. Da die meisten Gutachter einen fachlichen Hintergrund in biologischen Fächern haben, ist es angebracht, zu Anfang einige physikalische Grundbegriffe zu wiederholen.
+
+-   Kraft: Kräfte sind Vektoren mit einem Betrag in N, einer Wirklinie und einem Richtungssinn
+-   Biegemoment: Produkt aus Einzelkraft *F* und Wirkabstand, *M* = *F* × *L*
+-   Flächenmoment 2. Grades: geometrisches Maß für den Widerstand eines Querschnitts gegen Verformung
+-   Spannung: Quotient aus Kraft, die ein Querschnitt überträgt und der Querschnittsfläche
+-   Festigkeit: maximale Beanspruchbarkeit eines Materials, angegeben in Grenzspannungen (N/mm²), u. a. in Abhängigkeit von den Beanspruchungsarten und dem zeitlichen Verlauf der Beanspruchung
+-   Steifigkeit: Der Elastizitätsmodul *E* in N/mm² ist eine Maßzahl für die Steifigkeit des Materials
+
+Holz als anisotropes und hoch variables Material hat allerdings nicht eine Festigkeit oder Steifigkeit, sondern mehrere, die zudem in Abhängigkeit vom Ort im Baum und den Umweltbedingungen variieren können. Daher unterscheiden sich die Messergebnisse, die man an Normprüfkörpern oder gar Bohrspänen misst, von denen, die man bei der Messung ganzer Bäume erhält (Abbildung 2).
+
+![Bei der Messung auf unterschiedlichen Skalen (stehender Baum, Baumstamm im Labor, Normprüfkörper) erhält jeweils andere Ergebnisse für die gleichen Parameter (RUST et al. 2014).](images/Abb2.svg){fig-alt="Holzeigenschaften"}
+
+Anders als in der Praxis oft vermutet, haben Änderungen des Wassergehaltes kaum Auswirkungen auf die mechanischen Eigenschaften des Holzes. Meist ändert sich nur der Gehalt an freiem Wasser, sodass die Holzfeuchteschwankungen im Tages- oder Jahresverlauf unerheblich sind.
+
+### Reaktionsholz als Muskel des Baumes
+
+Muskeln bewirken Bewegungen. Obwohl Bäume keine Muskeln besitzen, können sie doch ihre verholzten Organe bewegen: allerdings viel langsamer als Tiere, und umso weniger, je dicker die Organe sind. Und noch etwas ist anders: Diese Bewegungen werden durch neues Holz bewirkt, dessen Verteilung und Aufbau diesem Zweck angepasst werden.
+
+Während der Reifung dieser neuen Holzzellen können sie sich z. B. verkürzen, und damit Zugspannungen in Längsrichtung erzeugen. Wenn sie ungleich um den Baum oder Ast verteilt sind, dann können Biegemomente entstehen, die zur Verformung wenig verholzter oder dünner Baumteile führen (MELLEROWICZ et al. 2008).
+
+Die mechanischen Eigenschaften von Reaktionsholz sind längst noch nicht umfassend geklärt. Die Unterschiede von Druckholz und normalem Holz in Koniferen sind noch recht übersichtlich. Dieses ist gekennzeichnet durch weitere Jahrringe, höhere Dichte, geringeres Elastizitätsmodul und größere Druckfestigkeit.
+
+Das Zugholz der Laubgehölze ist sehr viel variabler. Es ist ein spezialisiertes Gewebe, das diesen Bäumen ermöglicht, ihre Form durch die Krümmung bereits verholzter Teile zu verändern, und auch, eine Krümmung, z. B. durch das Eigengewicht von Ästen, zu verhindern. Es gibt jedoch große anatomische Unterschiede zwischen den Arten. Besonders deutlich wird dies durch das Fehlen oder Vorhandensein einer ausgeprägten G-Schicht. Auch im Reaktionsholz der Laubgehölze sind Jahrringe meist, aber nicht immer, breiter. Kaum Messwerte gibt es von den mechanischen Holzeigenschaften. Bei diesen deuten sich eine höhere Dichte und Steifigkeit an (RUELLE et al. 2007).
+
+Über ein „Erschlaffen" solcher Strukturen ist kaum etwas bekannt, es scheint jedoch unwahrscheinlich. Soweit trägt die Analogie des Muskels dann doch nicht.
+
+### Strategien: Pappel und Eiche
+
+Die große Variabilität der mechanischen Eigenschaften des Holzes verschiedener Baumarten ermöglicht unterschiedliche Wege zum gleichen Ziel. Deshalb kann aus der Tatsache, dass eine Baumart Holz geringerer Festigkeit besitzt als eine andere, nicht so einfach auf eine geringe Bruchsicherheit der Baumart geschlossen werden, denn Bäume können zwischen zwei Strategien „wählen", indem sie mit einen dünnen Stamm aus dichtem, festen Holz, oder aber einen dicken Stamm aus weniger festem Holz wachsen. Da der Durchmesser die Festigkeit des Stammes ganz wesentlich mit bestimmt, kann eine Pappel möglicherweise mit der gleichen Menge Kohlenstoff einen bruchfesteren Stamm erzeugen als eine Eiche.
+
+### Gibt es die eine „Optimalgestalt" des Baumstammes?
+
+Die äußere Form eines Baumes ist sicher die erste Eigenschaft, die einem Gutachter ins Auge fällt. Jedoch ändert sie sich in charakteristischer Weise, wenn die Bäume größer werden. Verglichen mit jungen Bäumen wirken alte oft plump, da sie im Verhältnis zu ihrer Höhe dick sind. Behielten Bäume im Laufe ihres Lebens ihre Form bei, so würde ihre Körpermasse schneller steigen als ihr Stammquerschnitt. Es ist daher schwierig, die Angemessenheit der Form eines Baumes zu beurteilen -- feste Grenzwerte, die zwischen sicher und unsicher trennen, müssen hier scheitern.
+
+Seit über 200 Jahren ist bekannt, dass Bäume mit ihrem Wachstum auf eine Vielzahl mechanischer Reize reagieren können. Ein Modell, das diese Wachstumsreaktion der Bäume auf den Reiz der Windlast beschreibt, ist die Hypothese der konstanten Spannung (METZGER 1893). Diese Hypothese geht davon aus, dass Bäume ihren Stamm einem Biegebalken gleich so gestalten, dass keine Sollbruchstellen entstehen. Obwohl die Ergebnisse vieler Untersuchungen der letzten 100 Jahre diese Hypothese nicht bestätigen konnten, hat sie immer noch zahlreiche Anhänger. Pflanzen messen allerdings nicht die Spannung im Kambium, sondern die Verformung (COUTAND et al. 2010). Nur wenn ein Defekt die Verformbarkeit des Stammes erhöht, kann dies auf diese Weise zu Anpassungen führen. Außerdem passen Bäume nicht nur ihre Form, sondern auch die Eigenschaften des neu angelegten Holzes an die mechanischen Belastungen an.
+
+Das Wachstum von Bäumen als „spannungsgesteuert" zu bezeichnen (WÄLDCHEN 2005) entspricht also nicht dem aktuellen Stand des Wissens, auch wenn es anschaulich und plausibel erscheint.
+
+## Wasserleitung: Der Baumstamm als Wasserrohr
+
+Im Baumstamm müssen große Wassermengen entgegen der Schwerkraft bewegt werden. Bei großen Bäumen können dies mehrere hundert Liter an einem Tag sein (Abbildung 3). Wo Menschen zur Lösung dieser Aufgabe wohl Rohrleitungen verwenden würden, gibt es im Baumstamm nur feine Poren, die oft nicht einmal mit bloßem Auge sichtbar sind.
+
+![](media/image3.png){width="5.905511811023622in" height="4.677165354330708in"}
+
+**Abbildung 3:** Je größer der Baum (hier: seine Kronenprojektionsfläche), desto größer der Wasserbedarf und damit auch das erforderliche Bodenvolumen (RUST 2010.)
+
+![Je größer der Baum (hier: seine Kronenprojektionsfläche), desto größer der Wasserbedarf und damit auch das erforderliche Bodenvolumen (RUST 2010.)](images/Abb3.svg){fig-alt="Wasserbedarf"}
+
+Dies sind lang gestreckte, abgestorbene Zellen, deren Zellwand häufig durch Spiralen oder Ringe verstärkt ist, um unter dem starken Sog der Blätter nicht zu kollabieren. Der Innendurchmesser dieser Zellen beträgt bei Nadelbäumen bis zu 0,03 mm, bei zerstreutporigen bis zu 0,06 mm und bei ringporigen Baumarten bis zu 0,2 mm. Bei den ringporigen Baumarten, z. B. Eichen, Eschen, Ulmen, Robinie und Esskastanie, ist daher die Flussgeschwindigkeit deutlich höher, nämlich bis zu 40 m in einer Stunde, während es bei den Nadelbäumen nur bis zu 2 m je Stunde sind (LARCHER 1994). In den über 100 m hohen Mammutbäumen Kaliforniens braucht das Wasser im Mittel 10 Tage von der Wurzel bis in die Krone.
+
+Den Wassertransport im Baum veranschaulicht man meist mit einer Analogie zum Ohm'schen Gesetz aus der Elektrizitätslehre, welches besagt, dass der Stromfluss durch einen Leiter umso größer ist, je größer die angelegte Spannung und die elektrische Leitfähigkeit des Leiters sind (GRADMANN 1928). Die Leitfähigkeit im Baum ist eine hydraulische, und anstelle des elektrischen Potenzials (Spannung) treiben Wasserpotenziale den Wasserfluss durch den Baum (Abbildung 4).
+
+![Wassertransport im Baum als Leitfähigkeiten (K, g) und Wasserpotentiale (Ψ) (RUST 2013).](images/Abb4.png){fig-alt="Stromkreisanalogie"}
+
+Während der Vegetationsperiode herrscht im Splintholz ein beachtlicher Unterdruck. Deshalb führen Verletzungen dazu, dass Luft in das Holz gesogen wird. Wo dies passiert, kann kein Wasser mehr geleitet werden und der Baum gibt solche Bereiche in der Regel auf und schottet sie ab. Oft werden sie dann von Fäuleerregern befallen.
+
+Wird der Unterdruck zu groß, z. B. bei Trockenstress im Sommer, dann kann es zu Embolien im Holz kommen. Dadurch wird die hydraulische Leitfähigkeit kleiner. In der Regel bildet das Gefäßsystem eines Baumes aber ein einziges, integriertes Netzwerk, in dem jede Wurzel mehr oder weniger direkt mit jedem Ast verbunden ist. Ausnahmen sind wohl junge Bäume ringporiger Arten, bei denen ein Kronenbereich mehr oder weniger einer Wurzel zugeordnet werden kann. Sonst kann aber jeder Ast von jeder Wurzel mit Wasser versorgt werden.
+
+In jeder Achse (Stamm, Zweig, Blattstiel) sind immer mehrere Leitelemente vorhanden. Daher können die Blätter auch beim Ausfall eines Teils der Leitelemente, z. B. durch Embolien, Insektenfraß, Fäulen oder Anfahrschäden, weiter mit Wasser versorgt werden.
+
+Die hydraulische Leitfähigkeit sinkt rasch von der Stammbasis bis zu den Blättern. Die Blätter haben im gesamten Baum den weitaus höchsten Anteil am Widerstand, der dem Wasserfluss entgegengesetzt wird -- bis zu 80 Prozent des gesamten Widerstandes des Baumes. Im Vergleich tragen Astanbindungen, trotz ihrer anatomischen Besonderheiten, nicht wesentlich zum Widerstand bei. Auch die Länge des Transportweges trägt bei den relativ niedrigen Stadtbäumen unserer Breiten nicht viel zum Transportwiderstand bei. Deshalb ist es wenig sinnvoll, Bäume einzukürzen, um diesen Weg zu verkürzen. Jedoch können die Reïterate, die nach einer Einkürzung wachsen, eine größere hydraulische Leitfähigkeit haben, als die entnommenen Äste.
+
+## Jahrringe als Autobiographie des Baumes
+
+Die äußere Form eines Baumes enthüllt bereits sehr viele Informationen über sein bisheriges Schicksal. Aber auch das Innere des Stammes enthält eine Autobiographie des Baumes.
+
+Die Wachstumsruhe unsrer Bäume im Winter führt zur Ausbildung von mehr oder weniger deutlich erkennbaren Jahrringen. Die Breite dieser Jahrringe hängt von vielen Umweltfaktoren und dem Zustand des Baumes ab.
+
+Prinzipiell sind hohe Zuwachsraten (und damit verbunden breite Jahrringe) ein Zeichen für hohe Vitalität. Um jedoch objektive, quantitative Messwerte zu erhalten, braucht man in der Regel nicht nur einen möglichst vollständigen Bohrspan des zu untersuchenden Baumes, sondern auch noch von Referenzbäumen. Denn nur im Vergleich mit den Jahrringbreiten der vorhergehenden Jahre und denen anderer Bäume kann sicher eingeordnet werden, ob ein bestimmter hoch oder niedrig ist.
+
+Da jede Bohrung die Gefahr erhöht, dass der Baum von fäuleerregenden Pilzen befallen wird, und ihre Ergebnisse nur wenig zusätzliche Informationen über den Zustand des Baumes erbringen, sollten sie grundsätzlich vermieden werden. Auch punktuelle Messungen der Holzfestigkeit an solchen Bohrspänen tragen wenig zur Beurteilung der Bruchsicherheit eines Baumes bei.
+
+Anders sieht es z. B. aus, wenn ein konkretes Schadereignis (Baumaßnahmen, Grundwasserabsenkung) datiert werden soll, oder man feststellen muss, wie oft ein Gehölz verschult wurde. Hier sind Jahrringanalysen sehr gut geeignet (BONN 2013).
+
+## Schlussfolgerungen
+
+Wer in einem Baumstamm „Kräfte fließen" sieht, könnte dort auch Wasser „fließen sehen" -- was von diesen beiden im konkreten Fall wichtiger ist, das kann von außen kaum entschieden werden. Die „Körpersprache" der Bäume nur mechanisch zu verstehen, wird diesen komplexen Lebewesen nicht gerecht. Bäume sind in vielen Bereichen derart anders als wir, dass wir mit Analogieschlüssen nicht zu leichtfertig umgehen dürfen. Die Zunahme wissenschaftlicher Erkenntnisse über Bäume hat sich in den letzten Jahren deutlich beschleunigt. Daher sollten Sachverständige diese Entwicklungen aufmerksam verfolgen, damit ihre Gutachten dem aktuellen Stand des Wissens entsprechen.

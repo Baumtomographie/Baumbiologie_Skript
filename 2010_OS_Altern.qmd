@@ -1,0 +1,312 @@
+# Wachstum, Alter, Tod
+
+
+Bäume können sehr alt werden, aber ihr Endalter variiert auch bei der
+gleichen Art sehr stark. Insbesondere in der Stadt ist ihre
+Lebenserwartung gering. Welche Mechanismen ermöglichen ihnen das
+Erreichen eines hohen Alters, und können wir diese vielleicht für
+unsere Bäume in der Stadt nutzen?
+
+Form, Größe und Endalter von Bäumen auch der selben Art variieren
+enorm. Woran liegt das und wie können wir Einfluss darauf nehmen?
+
+## Bäume sind anders
+
+• Meristeme sind dauerhaft pluripotent
+• Wachstum ist der wesentliche Handlungsmodus von Bäumen
+• die Gestalt der Bäume ist sehr plastisch
+• Bäume bestehen aus teilweise autonomen Organen
+• Strukturen sind oft redundant
+• ständig sterben Organe
+
+## Redundanz und Plastizität
+
+Bäume sind immobil: sie können bei Gefahr oder schlechter werdenden
+Umweltbedingun- gen nicht weglaufen. Daher müssen sie Schäden ertragen
+oder ausgleichen können, u. a. dadurch, dass wichtige Systeme mehrfach
+vorhanden sind und ausgefallene Teile durch andere ersetzt werden.
+Werden z. B. durch einen Anfahrschaden oder einen Pilzbefall Teile des
+Xylems oder Phloems zerstört oder blockiert, dann werden die Wasser-
+und Nährstoffströme um die betroffenen Bereiche herum geleitet. So
+können oft wenigstens Teile des Baumes überleben, wo es der ganze Baum
+nicht mehr kann.
+
+Auch kann die Funktion eines Organes durch ein anderes übernommen
+werden, so z. B. wenn der Leittrieb ausfällt, denn Bäume sind modular
+aufgebaut. Anzahl, Lage und Größe von Ästen oder Blättern sind nicht
+genetisch festgelegt. Sie können daher flexibel auf veränderte
+Umweltbedingungen reagieren und Verluste einzelner Module leichter
+verkraften als andere Organismen.
+
+Reiterate sind eine weitere wesentliche Grundlage für die Plastizität
+der Baumkrone. Oft sind sie ein bedeutender Teil oder bauen gar die
+ganze Krone alter Bäume auf [14].
+
+Auch die Meristeme mit ihrer Fähigkeit, gleichsam am ganzen Baum die
+meisten Gewebe- und Organtypen neu aufzubauen, sind eine wesentliche
+Grundlage für die Plastizität und damit auch Langlebigkeit der Bäume
+[2, 8].
+
+Auch mechanisch weisen Bäume eine große Plastizität auf, die es ihnen
+ermöglicht, sich an äußere, z. B. Freistellung, oder innere
+Veränderung der mechanischen Belastung anzupassen. Sie können dies
+durch lokal erhöhte Durchmesserzuwächse, Veränderung des
+Stammquerschnittes und die Bildung von Reaktionsholz erreichen.
+
+## Aufbau der Baumarchitektur oder wie „handeln" Bäume?
+
+Das plastische Wachstum der Baumkrone ist eine wichtige Art der Bäume
+zu „handeln", also auf die Umwelt zu reagieren. Dabei ist es
+hilfreich, die Krone als eine Population, jedenfalls teilweise,
+miteinander konkurrierender autonomer Äste zu betrachten [15]. Dann
+sind Äste physiologisch relativ unabhängig von einander, d. h. sie
+brauchen keine Assimilate aus dem Stamm und die Wasser- und
+Nährelementaufnahme sind unabhängig von anderen Ästen in der Krone.
+
+Der Nettobeitrag eines Astes zum Organismus entscheidet über sein
+Überleben, unpro- duktive Äste sterben ab. So können ohne eine
+steuernde Zentrale Ressourcen effizient genutzt werden.
+
+Längenwachstum, Verzweigung und Absterben von Modulen sind die
+grundlegenden Prozesse, mit denen die Baumgestalt an eine sich
+ändernde Umwelt anpassen kann [1, 6]. Bei aller Plastizität lassen
+sich junge Baumkronen dabei durch eine erstaunlich geringe Zahl von
+Architekturmodellen beschreiben [17].
+
+## Ausmaß und Dauer des Längenwachstums
+
+Stark vereinfachend folgt die Geschwindigkeit des Höhenwachstums im
+Laufe eines Baumlebens oft dem Verlauf einer „S-Kurve": der Baum
+wächst zunächst langsam, bis er sich etabliert hat, dann eine zeitlang
+rasch, um nach einigen Jahrzehnten nur noch sehr langsam in die Höhe
+zu wachsen. Ganz andere Verläufe zeigen allerdings oft Bäume, die
+lange Jahre im Schatten von Altbäumen wachsen.
+
+## Steuerung des Wachstums
+
+Ort und Ausmaß des Wachstums einzelner Module wird durch interne
+Prozesse, z. B. die Apikalkontrolle [19], und Reaktionen auf äußere
+Reize, z. B. Photo-, Gravi- oder Thigmotropismen beeinflusst. Dadurch
+wird sichergestellt, dass der Baum an seinem Standort möglichst viel
+Sonnenstrahlung absorbieren kann.
+
+Darüber hinaus bestehen zwischen den Massen einzelner Baumteile und
+ihren Wachs- tumsraten oft enge Beziehungen, die sich physiologisch
+oder biomechanisch herleiten lassen. So sollte z. B. die Masse des
+Stammes proportional zur Masse der Wurzeln sein, um eine sicher
+Verankerung zu ermöglichen [12].
+
+## Grenzen des Wachstums
+
+Das Bäume „nicht in den Himmel wachsen" sagt schon das Sprichwort.
+Warum das so ist, dass ist auch heute erst teilweise geklärt.
+
+## Wasserhaushalt
+
+Die Grenzen des Höhenwachstums werden bei den höchsten uns bekannten
+Bäumen anscheinend durch den Wasserhaushalt bestimmt. Nähert sich die
+Höhe der Bäume 120 m, dann ist an der Spitze des Baumes das
+Wasserpotential aufgrund der Reibung entlang der langen Strecke und
+der Schwerkraft so gering, dass die Blätter fast ständig unter
+Trockenstress leiden. Daher ist das Längenwachstum dort nur noch
+äußerst gering [3, 5].
+
+Da die Bäume aber sehr wirkungsvolle Wege gefunden haben, den Einfluss
+der Länge des Transportweges und der Höhe auszugleichen, spielt der
+Wasserhaushalt bei den Baumhöhen die in unseren Regionen vorkommen
+kaum eine Rolle.
+
+## Biomechanik
+
+Die kritische Höhe, bei der ein Baum unter seinem eigenen Gewicht
+knicken würde (Hkr ), kann aus der folgenden Gleichung geschätzt
+werden:
+
+E 1 2
+
+Hkr = 0, 792( ρ ) 3 d1,3
+
+Elastizitätsmodul (E), Holzdichte (ρ) und Durchmesser (d1,3) bestimmen
+also mit über die theoretisch erreichbare Höhe der Bäume. Allerdings
+sind alte Bäume in der Natur sehr weit von diesen Maximalwerten
+entfernt. Dies liegt u. a. daran, dass das Durchmesserwachstum in der
+Regel deutlich länger anhält als das Höhenwachstum, sodass der
+Sicherheitsfaktor eines Baumes im Laufe des Lebens steigt [16]. Auch
+berücksichtigt diese Gleichung nicht den Einfluss des Windes. Daher
+hat diese Form des Versagens wohl keine Bedeutung für die Evolution
+der maximalen Höhe der Bäume gehabt, zumal sich die Beziehung H ∝ D 3 auch physiologisch herleiten lässt [13].
+Ebenso lässt sich aus allometrischen Beziehungen der Allokation des jährlichen Zuwachses
+herleiten, dass unabhängig von der Größe eines Baumes gilt, dass die maximalen
+windinduzierten Biegemomente an der Stammbasis (MB ) den kritischen
+Momenten des Wurzelsystems (McR ) entsprechen [13]:
+
+MB = McR
+
+Daraus folgt, dass auch das Versagen durch Wind nicht die maximale
+Baumhöhe bestim- men sollte.
+
+## Genetik
+
+Die deutlichen Unterschiede der Maximalhöhe eng verwandter Arten die
+in direkter Nachbarschaft angepflanzt wurden legen nahe, dass es
+unabhängig von physiologischen und biomechanischen Einflussgrößen
+artspezifische Grenzen gibt, die selbst dann nicht überschritten
+werden, wenn die Umstände besonders günstig sind.
+
+## Ende des Wachstums
+
+Untersuchungen über die Alterungsprozesse bei Bäumen werden erheblich
+durch das hohe Alter erschwert, das diese erreichen können. Schon die
+Uneinigkeit darüber, was wir eigentlich unter „Altern" und „Seneszenz"
+von Bäumen verstehen zeigt, dass grundlegende Vorgänge noch nicht
+verstanden sind.
+
+## Altern und Seneszenz
+
+Unter Seneszenz (von *lat.* senescere „alt werden") versteht man die
+Abnahme der Überle- benswahrscheinlichkeit und Fruchtbarkeit aufgrund
+der verminderten Leistungsfähigkeit vieler verschiedener
+physiologischer Prozesse [18]. Andere unterscheiden zwischen „Al-
+tern", der Ansammlung von Veränderungen in der Entwicklung einer
+Pflanze im Laufe des Lebens auf der einen Seite, und „Seneszenz", dem
+streng kontrollierten physiologischen Prozess der zum Tode führt auf
+der anderen Seite [11]. Seneszenz tritt üblicherweise wäh- rend des
+ganzen Lebens eines Baumes auf der Ebene einzelner Organe oder Module
+auf, am deutlichsten beim jährlichen Blattfall laubwerfender Arten,
+bei Abtrennng einzelner Zweige oder beim Absterben von Ästen.
+
+Weitere Beispiele für Alterung und Seneszenz sind die sinkende
+hydraulische Leitfähig- keit des Xylems durch Akkumulation von
+Embolien und Hoftüpfelverschluss sowie die aktive Bildung von
+Kernholz.
+
+Bei alten Bäumen wurde häufig eine geringere Photosyntheserate als bei
+jungen Bäumen der gleichen Art auf demselben Standort gefunden. Dieses
+Ergebnis wurde oft dem Alter der Bäume zugeschrieben, Ergebnisse der
+letzten Jahren legen allerdings nahe, dass es ein Effekt der Baumgröße
+und nicht des Alters ist [11].
+
+Interessanterweise gibt es auch Hinweise darauf, dass die
+Fruchtbarkeit von Bäumen mit dem Alter weiter ansteigt. Bei den
+ältesten bekannten Bäumen, *Pinus longaeva*, ließen sich bisher keine
+Anzeichen für die Seneszenz des gesamten Organismus finden [7].
+
+## Tod
+
+Die Kurve der Todesrate von Bäumen ist wahrscheinlich U-förmig, mit
+einer anfangs hohen Mortalitätsrate, die dann über Jahrzehnte konstant
+niedrig bleibt, um am Ende wieder anzusteigen. Über alle phototrophen
+Organismen steigt die mittlere Lebenserwartung E mit der Körpermasse M
+[10]:
+
+E ∝ M 0.22
+
+Allerdings sind nicht die größten Bäume die ältesten Pflanzen, sondern
+Sträucher.
+
+Zumindest für *Pinus longaeva* scheint wahrscheinlich, dass ihre
+Lebensdauer alleine durch äußere Faktoren wie Feuer oder Krankheiten
+begrenzt ist [8], nicht jedoch durch ontogenetische
+Entwicklungsphasen [9]. Dann ist der Tod nicht vorprogrammiert,
+sondern letztendlich eine Folge der Unfähigkeit, dauerhaft alle
+Schäden zu reparieren [4].
+
+Gerade in der Stadt sind aber irreparable Schäden an jungen und
+mittelalten Bäumen eher die Regel als die Ausnahme, sodass die meisten
+Bäume dort in einem Altersbereich sterben, in dem die natürliche
+Sterberate sehr gering wäre.
+
+Literatur
+
+[1] D. Barthelemy und Y. Caraglio. „Plant architecture: a dynamic,
+multilevel and comprehensive approach to plant form, structure and
+ontogeny". In: *Annals of Botany* 99.3 (2007), S. 375.
+
+[2] R. Borges. „Phenotypic plasticity and longevity in plants and
+animals: cause and effect?" In: *Journal of biosciences* 34.4 (2009),
+S. 605--611.
+
+[3] H. T. Ishii u. a. „Hydrostatic constraints on morphological
+exploitation of light in tall Sequoia sempervirens trees." eng. In:
+*Oecologia* 156.4 (2008), S. 751--763. doi:
+
+[10.1007/s00442-008-1032-z.](http://dx.doi.org/10.1007/s00442-008-1032-z)
+
+[4] T. B. L. Kirkwood. „Understanding the odd science of aging."
+eng. In: *Cel l* 120.4 (2005), S. 437--447. doi:
+[10.1016/j.cell.2005.01.027.](http://dx.doi.org/10.1016/j.cell.2005.01.027)
+
+[5] G. Koch u. a. „The limits to tree height". In: *Nature* 428
+(2004), S. 851--854.
+
+[6] H. de Kroon u. a. „A modular concept of phenotypic plasticity in
+plants." eng. In:
+
+*New Phytol* 166.1 (2005), S. 73--82. doi:
+[10.1111/j.1469-8137.2004.01310.x.](http://dx.doi.org/10.1111/j.1469-8137.2004.01310.x)
+[7] R. M. Lanner und K. F. Connor. „Does bristlecone pine senesce?"
+eng. In: *Exp*
+
+*Gerontol* 36.4-6 (2001), S. 675--685.
+
+[8] R. M. Lanner. „Why do trees live so long?" eng. In: *Ageing Res
+Rev* 1.4 (2002), S. 653--671.
+
+[9] H. Lyr, H. J. Fiedler und W. Tranquillini. *Physiologie und
+Ökologie der Gehölze*.
+
+Jena Stuttgart: Gustav Fischer Verlag, 1992, S. 620.
+
+[10] N. Marbà, C. M. Duarte und S. Agustí. „Allometric scaling of
+plant life history." eng. In: *Proc Natl Acad Sci U S A* 104.40
+(2007), S. 15777--15780. doi: [10.1073/
+pnas.0703476104.](http://dx.doi.org/10.1073/pnas.0703476104)
+
+[11] S. Munne-Bosch. „Aging in perennials". In: *Critical Reviews in
+Plant Sciences* 26.3 (2007), S. 123--138.
+
+[12] K. Niklas und H. Spatz. „Allometric theory and the mechanical
+stability of large trees: Proof and conjecture". In: *American journal
+of botany* 93.6 (2006), S. 824--828.
+
+[13] K. J. Niklas. „Maximum plant height and the biophysical factors
+that limit it."
+
+eng. In: *Tree Physiol* 27.3 (2007), S. 433--440.
+
+[14] R. Pelt und S. Sillett. „Crown development of coastal
+Pseudotsuga menziesii, including a conceptual model for tall
+conifers". In: *Ecological Monographs* 78.2 (2008), S. 283--311.
+
+[15] D. G. Sprugel, T. M. Hinckley und W. Schaap. „The Theory and
+Practice of Branch
+
+Autonomy". In: *Annual Review of Ecology and Systematics* 22.1 (1991),
+S. 309--
+
+334\. doi:
+[10.1146/annurev.es.22.110191.001521.](http://dx.doi.org/10.1146/annurev.es.22.110191.001521)
+eprint: [http://arjournals.
+annualreviews.org/doi/pdf/10.1146/annurev.es.22.110191.001521.](http://arjournals.annualreviews.org/doi/pdf/10.1146/annurev.es.22.110191.001521)
+
+5
+
+[16] F. Sterck und F. Bongers. „Ontogenetic changes in size,
+allometry, and mechanical design of tropical rain forest trees". In:
+*American journal of Botany* 85.2 (1998), S. 266--272.
+
+[17] P. B. Tomlinson. „Tree architecture." eng. In: *Am Sci* 71.2
+(1983), S. 141--149. [18] A. Watkinson. „Plant senescence". In:
+*Trends in Ecology & Evolution* 7.12 (1992),
+
+S. 417--420.
+
+[19] B. F. Wilson. „Apical control of branch growth and angle in
+woody plants". In: *Am.*
+
+*J. Bot.* 87.5 (2000), S. 601--607. eprint:
+[http://www.amjbot.org/cgi/reprint/](http://www.amjbot.org/cgi/reprint/87/5/601.pdf)
+
+[87/5/601.pdf.](http://www.amjbot.org/cgi/reprint/87/5/601.pdf)
+
+6

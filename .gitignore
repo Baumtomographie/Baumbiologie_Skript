@@ -8,3 +8,5 @@
 /.quarto/
 images
 _book
+site_libs
+*.html
