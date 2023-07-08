@@ -1,6 +1,6 @@
 # Einleitung
 
-Bäume sind als autotrophe Organismen nur von wenigen anorganischen Ressourcen abhängig. 
+Bäume sind als autotrophe Organismen nur von Licht und wenigen anorganischen Ressourcen abhängig. 
 Deren Quellen sind in der Regel weit voneinander entfernt. 
 Daher müssen diese Ressourcen oft über große Entfernungen transportiert werden. 
 Die benutzten Wege müssen sicher genug sein, um dem Eigengewicht der Bäume und starken Winden stand zu halten.

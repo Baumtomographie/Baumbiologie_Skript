@@ -17,12 +17,48 @@ von alten oder gekappten Bäumen haben in den letzten Jahren die
 Weiterentwicklung dieses etablierten Konzeptes durch die Einbeziehung
 des Baumalters [@Roloff2018] sowie weitere Indikatoren [@Weihs2017] angeregt.
 
-In dieser Untersuchung werden die Ergebnisse von zwei
-Klassifikationsverfahren für die Vitalität von Bäumen
-verglichen. Eines verwendet allein die Architektur der Oberkrone
-[@Roloff2001;@Roloff2018], das andere bezieht eine Vielzahl von Merkmalen des
-ganzen Baumes mit ein [@Weihs2017]. So soll geklärt werden, ob, wie
-stark und wodurch sich die Einschätzungen der Vitalität unterscheiden.
+Sachverständige, die alte Bäume untersuchen, bemängeln, dass mithilfe
+der Vitalitätsstufen nach Kronenarchitektur nicht zwischen
+anscheinend unterschiedlich vitalen Bäumen differenziert werden
+kann, da sie in der Regel in die altersgemäß normalen Stufen 2 oder 2,5
+eingestuft werden. Daher gibt es Vorschläge, weitere Kriterien hinzu zu
+ziehen, oder gar ganz neue Vitalitätsstufenmodelle zu
+etablieren.
+
+U. Weihs schlug dazu die folgenden Parameter vor:
+
+- Altersgemäß normale Kronengestalt
+- Zuwachs (Zuwachsstreifen mit sichtbarem Periderm) an 
+  - Stammfuß, 
+  - Stamm und in der 
+  - Krone 
+- Fähigkeit zur Wundholzholzbildung
+- Fähigkeit zur Kompensationsholzbildung
+- Reiterationsfreudigkeit an 
+  - Stammfuß, 
+  - Stamm und in der 
+  - Krone
+- Blühfreudigkeit
+- Belaubungsdichte und -farbe sowie Blatt- und Knospengröße unter Beachtung periodisch wirkender Störfaktoren
+
+Diese 11 Merkmale werden rein visuell, also ohne Messungen und
+Hilfsmittel, eingeschätzt. Eine Anleitung, wie diese Zuordnung
+reproduzierbar geschehen soll, gibt es bisher nicht. Beispiele für den Parameter "Zuwachs" zeigt Abb. \@ref(fig:Zuwachs). Traumatische Ereignisse
+(z. B. Übererdung des Stammfußes oder ein Ausbruch größerer
+Kronenteile) wurden als vorhanden/nicht vorhanden verzeichnet.
+
+Außerdem werden die Bäume nach ihrer Gestalt in die
+Lebensphasen Reife, Alterung, Kronenrückzug und Vergreisung
+eingeteilt (Weihs 2019). Diese sind nicht zu verwechseln mit den teilweise
+gleichnamigen Lebensphasen der Baumkontrollrichtlinie [@FLL2010], die
+im Wesentlichen das chronologische Alter der Bäume zugrunde legt, während
+hier die Bäume aufgrund ihrer Gestalt trotz gleichen
+Alters in die unterschiedlichen Phasen eingeteilt wurden,
+vergleichbar zu @Fay2015 und @Roloff2018.
+
+Unter Berücksichtigung aller genannten Merkmale wird abschließend für
+jeden Baum eine Vitalitätsstufe zwischen 0 (vital) und 3 (abgängiger
+Baum) festgelegt. Dazu werden die Teilergebnisse nicht verrechnet.
 
 ### Grundlagen
 
@@ -100,6 +136,10 @@ Vitalität genannt werden, machen in der Regel Aussagen über aktuellen
 Stress, nicht aber über die Vitalität eines Baumes, so z. B. die
 Chlorophyllfluoreszenz [@Johnstone2012;@Johnstone2013;@Hwang2016;
 @Callow2018;@Martinez-Trinidad2010a;@Uhrin2016a].
+
+Der Einsatz von Laserscannern eröffnet in den letzten Jahren neue Möglichkeiten zur Erfassung 
+von Parametern, die mit der Vitalität in Zusammenhang stehen. So können z. B. die Blattfläche 
+und die Kronenstruktur zerstörungsfrei und mit geringem Aufwand erfasst werden.
 
 #### Zusammenhang mit Zielgrößen: Was sagen Vitalitätsstufen aus?
 
@@ -263,6 +303,10 @@ zwischen der Vitalitätsstufe und den eigentlichen Zielgrößen gibt. In
 einer interessanten Studie von @Gillner2013 korreliert die
 Vitalitätsstufe mit Zuwachs und Mortalitätsrate.
 
+Die natürliche Kronenstruktur kann durch starke Eingriffe, wie z. B. Kappungen, 
+stark verändert werden. In diesem Fall werden Bäume anhand der Reiterate beurteilt 
+und in Regenerationsstufen eingeteilt [@Roloff2018], die der Einschätzung der künftigen Entwicklung dienen.
+
 ##### Reiterationsvermögen
 
 Nur am Rande sei hier die widersprüchliche Einordnung von
@@ -278,53 +322,6 @@ zusammenhängt [@Nicolini2001;@Colin2012a]. Außerdem können, z. B. bei der Buc
 Reiterate mehrere Jahrzehnte alt sein, ohne das dies vom Stammfuß aus
 zu erkennen ist, und so über den aktuellen Zustand des Baumes hinweg täuschen. 
 
-### Aktuelle Diskussion
-
-Sachverständige, die alte Bäume untersuchen, bemängeln, dass mithilfe
-der Vitalitätsstufen nach Kronenarchitektur nicht zwischen
-anscheinend unterschiedlich vitalen Bäumen differenziert werden
-kann, da sie in der Regel in die altersgemäß normalen Stufen 2 oder 2,5
-eingestuft werden. Daher gibt es Vorschläge, weitere Kriterien hinzu zu
-ziehen, oder gar ganz neue Vitalitätsstufenmodelle zu
-etablieren. Dabei sollte aus den hier vorgestellten, bewährten und
-wissenschaftlich fundierten Kriterien gewählt werden. Ganz neue, nicht
-untersuchte und nur schwer objektiv bewertbare Merkmale sollten jedoch
-in der Praxis vermieden werden.
-
-U. Weihs schlug dazu die folgenden Parameter vor:
-
-- Altersgemäß normale Kronengestalt
-- Zuwachs (Zuwachsstreifen mit sichtbarem Periderm) an 
-  - Stammfuß, 
-  - Stamm und in der 
-  - Krone 
-- Fähigkeit zur Wundholzholzbildung
-- Fähigkeit zur Kompensationsholzbildung
-- Reiterationsfreudigkeit an 
-  - Stammfuß, 
-  - Stamm und in der 
-  - Krone
-- Blühfreudigkeit
-- Belaubungsdichte und -farbe sowie Blatt- und Knospengröße unter Beachtung periodisch wirkender Störfaktoren
-
-Diese 11 Merkmale werden rein visuell, also ohne Messungen und
-Hilfsmittel, eingeschätzt. Eine Anleitung, wie diese Zuordnung
-reproduzierbar geschehen soll, gibt es bisher nicht. Beispiele für den Parameter "Zuwachs" zeigt Abb. \@ref(fig:Zuwachs). Traumatische Ereignisse
-(z. B. Übererdung des Stammfußes oder ein Ausbruch größerer
-Kronenteile) wurden als vorhanden/nicht vorhanden verzeichnet.
-
-Außerdem werden die Bäume nach ihrer Gestalt in die
-Lebensphasen Reife, Alterung, Kronenrückzug und Vergreisung
-eingeteilt (Weihs 2019). Diese sind nicht zu verwechseln mit den teilweise
-gleichnamigen Lebensphasen der Baumkontrollrichtlinie [@FLL2010], die
-im Wesentlichen das chronologische Alter der Bäume zugrunde legt, während
-in dieser Untersuchung die Bäume aufgrund ihrer Gestalt trotz gleichen
-Alters in die unterschiedlichen Phasen eingeteilt wurden. Dies geschah
-vergleichbar zu @Fay2015 und @Roloff2018.
-
-Unter Berücksichtigung aller genannten Merkmale wird abschließend für
-jeden Baum eine Vitalitätsstufe zwischen 0 (vital) und 3 (abgängiger
-Baum) festgelegt. Dazu werden die Teilergebnisse nicht verrechnet.
 
 ### Diskussion
 
@@ -384,16 +381,6 @@ werden. Bisher fehlt eine in der Praxis umsetzbare Anleitung, wie sie
 z. B. für die Kronentransparenz für die Waldzustandserhebung verwendet
 wird.
 
-In Abb. \@ref(fig:WundholzBaumartWeihs) wurde die Verteilung der
-Vitalitätsstufen gegen die Summe der mit 3 bewerteten Merkmale
-aufgetragen. Jedenfalls für die Buche zeigt sich ein Zusammenhang
-zwischen diesem Wert und der Vitalitätsstufe.
-
-
-```{r WundholzBaumartWeihs, fig.cap="Zusammenhang zwischen der Summe positiv bewerteter Merkmale und der Vitalitätseinstufung von U. Weihs. Wurde bei der Buche nur ein Merkmal mit 3 eingestuft, so wurden die Bäume in die Vitalitätsstufen 1,5 und 2 eingeordnet (rechtes oberes Feld). Wurden dagegen 3 oder 4 Merkmale mit 3 eingestuft, so wurden die meisten Bäume die Vitalitätsstufe 0 eingeordnet (untere vier Felder)."}
-	knitr::include_graphics("../../../../Forschung/Vitalitaet/docs/figure/Vergleich_AR_UW.Rmd/VsWeihsSumme-1.png")
-```
-
 Möglicherweise reicht aber bereits ein zweistufiges Vorgehen, bei
 dem der Baum erst einmal anhand der gut dokumentierten und
 nachvollziehbaren Methode der Kronenarchitektur eingestuft
@@ -402,7 +389,6 @@ aber Merkmale des Stammes auf einen kräftigen Zuwachs hin, sollte die
 Vitalitätsstufe abschließend angehoben werden. Dafür wäre es nicht,
 wie hier geschehen, unbedingt erforderlich, bis zu 11 Merkmale auf
 einer vierstufigen Skala zu erfassen.
-
 
 ## Schlussfolgerungen für die Praxis
 
