@@ -13,15 +13,17 @@ book:
     - WHH.qmd
     - Stress.qmd
     - Vitalitaet.qmd
-    - summary.qmd
     - references.qmd
 
-bibliography: ["d:/users/Steffen/Documents/Literatur/BiBTeX/Alles.bib"]
+bibliography: ["d:/users/Steffen/Documents/Literatur/BiBTeX/Alles.bib", "d:/users/Steffen/Documents/Literatur/BiBTeX/Zotero.bib"]
 lang: de
 
 format:
   html:
     theme: cosmo
+  pdf:
+    papersize: a4
+    keep-tex: true
 
 
 

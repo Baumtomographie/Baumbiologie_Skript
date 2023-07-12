@@ -6,7 +6,7 @@ Der Körper eines alten Baumes besteht zum größten Teil aus Holz, also einem e
 
 Bäume sind modular aufgebaut und können den Verlust eines großen Teiles ihrer Biomasse und Organe überleben. Da an vielen Stellen ihres Körpers Bildungsgewebe vorhanden sind oder bei Bedarf gebildet werden, können verlorene Teile ersetzt werden.
 
-In unserem Körper werden Organe und Gewebe ständig den aktuellen Anforderungen angepasst. Dagegen kann vom Baum einmal angelegtes Holz weder anatomisch noch in seinen mechanischen Eigenschaften wesentlich verändert werden. Anpassungen müssen durch neu angelegtes Holz erfolgen. Die Baumgestalt erzählt daher von den wechselnden Einflüssen der Umwelt und wie sich die Bäume im Rahmen ihrer genetischen Ausstattung daran angepasst haben (TREDICI 2002).
+In unserem Körper werden Organe und Gewebe ständig den aktuellen Anforderungen angepasst. Dagegen kann vom Baum einmal angelegtes Holz weder anatomisch noch in seinen mechanischen Eigenschaften wesentlich verändert werden. Anpassungen müssen durch neu angelegtes Holz erfolgen. Die Baumgestalt erzählt daher von den wechselnden Einflüssen der Umwelt und wie sich die Bäume im Rahmen ihrer genetischen Ausstattung daran angepasst haben [@trediciGestaltDendrologyLooking2002].
 
 Für den Baum erfüllt sein Stamm viele Funktionen. Er
 
@@ -17,9 +17,17 @@ Für den Baum erfüllt sein Stamm viele Funktionen. Er
 -   betreibt Photosynthese und
 -   dient der vegetativen Fortpflanzung.
 
-Bei der Begutachtung von Bäumen steht oft nur eine der vielen Funktionen des Baumstammes im Vordergrund, meist ist es die mechanische, da oft die Bruch- und Standsicherheit beurteilt werden sollen. Obwohl wir es anders interpretieren, messen wir dabei meist Eigenschaften, die nur lose mit den Funktionen des Baumstammes für den Baum zusammenhängen (Abbildung 1).
+Bei der Begutachtung von Bäumen steht oft nur eine der vielen Funktionen des Baumstammes im Vordergrund, meist ist es die mechanische, da oft die Bruch- und Standsicherheit beurteilt werden sollen. Obwohl wir es anders interpretieren, messen wir dabei meist Eigenschaften, die nur lose mit den Funktionen des Baumstammes für den Baum zusammenhängen [@fig-Chave_DE].
 
-![Die Ziele eines Baumes unterschieden sich von denen der Menschen. Die häufig an Bäumen gemessenen Parameter hängen daher nur mittelbar mit den für den Baum relevanten zusammen (RUST 2014).](images/Abb1.svg){fig-alt="Funktionen des Baumstammes"}
+```{r, engine = 'tikz'}
+#| fig-cap: "Die Ziele eines Baumes unterschieden sich von denen der Menschen. Die häufig an Bäumen gemessenen Parameter hängen daher nur mittelbar mit den für den Baum relevanten zusammen (RUST 2014)."
+#| fig-alt: "Funktionen des Baumstammes"
+#| label: fig-Chave_DE
+#| echo: false
+\input{D:/Bilder/eigene_Graphiken/Farben.tex}
+\input{D:/Bilder/eigene_Graphiken/Chave_DE.tikz}
+```
+
 
 ## Der Baumstamm als Biegebalken
 
@@ -34,9 +42,16 @@ Die Tragfähigkeit eines Baumstammes wird durch die Festigkeit des Holzes und se
 -   Festigkeit: maximale Beanspruchbarkeit eines Materials, angegeben in Grenzspannungen (N/mm²), u. a. in Abhängigkeit von den Beanspruchungsarten und dem zeitlichen Verlauf der Beanspruchung
 -   Steifigkeit: Der Elastizitätsmodul *E* in N/mm² ist eine Maßzahl für die Steifigkeit des Materials
 
-Holz als anisotropes und hoch variables Material hat allerdings nicht eine Festigkeit oder Steifigkeit, sondern mehrere, die zudem in Abhängigkeit vom Ort im Baum und den Umweltbedingungen variieren können. Daher unterscheiden sich die Messergebnisse, die man an Normprüfkörpern oder gar Bohrspänen misst, von denen, die man bei der Messung ganzer Bäume erhält (Abbildung 2).
+Holz als anisotropes und hoch variables Material hat allerdings nicht eine Festigkeit oder Steifigkeit, sondern mehrere, die zudem in Abhängigkeit vom Ort im Baum und den Umweltbedingungen variieren können. Daher unterscheiden sich die Messergebnisse, die man an Normprüfkörpern oder gar Bohrspänen misst, von denen, die man bei der Messung ganzer Bäume erhält [@fig-Probenahmeschema].
 
-![Bei der Messung auf unterschiedlichen Skalen (stehender Baum, Baumstamm im Labor, Normprüfkörper) erhält jeweils andere Ergebnisse für die gleichen Parameter (RUST et al. 2014).](images/Abb2.svg){fig-alt="Holzeigenschaften"}
+```{r, engine = 'tikz'}
+#| fig-cap: "Bei der Messung auf unterschiedlichen Skalen (stehender Baum, Baumstamm im Labor, Normprüfkörper) erhält jeweils andere Ergebnisse für die gleichen Parameter (RUST et al. 2014)."
+#| fig-alt: "Holzeigenschaften"
+#| label: fig-Probenahmeschema
+#| echo: false
+\input{D:/Bilder/eigene_Graphiken/Farben.tex}
+\input{D:/Bilder/eigene_Graphiken/Probenahmeschema.tikz}
+```
 
 Anders als in der Praxis oft vermutet, haben Änderungen des Wassergehaltes kaum Auswirkungen auf die mechanischen Eigenschaften des Holzes. Meist ändert sich nur der Gehalt an freiem Wasser, sodass die Holzfeuchteschwankungen im Tages- oder Jahresverlauf unerheblich sind.
 
@@ -44,11 +59,11 @@ Anders als in der Praxis oft vermutet, haben Änderungen des Wassergehaltes kaum
 
 Muskeln bewirken Bewegungen. Obwohl Bäume keine Muskeln besitzen, können sie doch ihre verholzten Organe bewegen: allerdings viel langsamer als Tiere, und umso weniger, je dicker die Organe sind. Und noch etwas ist anders: Diese Bewegungen werden durch neues Holz bewirkt, dessen Verteilung und Aufbau diesem Zweck angepasst werden.
 
-Während der Reifung dieser neuen Holzzellen können sie sich z. B. verkürzen, und damit Zugspannungen in Längsrichtung erzeugen. Wenn sie ungleich um den Baum oder Ast verteilt sind, dann können Biegemomente entstehen, die zur Verformung wenig verholzter oder dünner Baumteile führen (MELLEROWICZ et al. 2008).
+Während der Reifung dieser neuen Holzzellen können sie sich z. B. verkürzen, und damit Zugspannungen in Längsrichtung erzeugen. Wenn sie ungleich um den Baum oder Ast verteilt sind, dann können Biegemomente entstehen, die zur Verformung wenig verholzter oder dünner Baumteile führen [@mellerowiczXyloglucanMolecularMuscle2008].
 
 Die mechanischen Eigenschaften von Reaktionsholz sind längst noch nicht umfassend geklärt. Die Unterschiede von Druckholz und normalem Holz in Koniferen sind noch recht übersichtlich. Dieses ist gekennzeichnet durch weitere Jahrringe, höhere Dichte, geringeres Elastizitätsmodul und größere Druckfestigkeit.
 
-Das Zugholz der Laubgehölze ist sehr viel variabler. Es ist ein spezialisiertes Gewebe, das diesen Bäumen ermöglicht, ihre Form durch die Krümmung bereits verholzter Teile zu verändern, und auch, eine Krümmung, z. B. durch das Eigengewicht von Ästen, zu verhindern. Es gibt jedoch große anatomische Unterschiede zwischen den Arten. Besonders deutlich wird dies durch das Fehlen oder Vorhandensein einer ausgeprägten G-Schicht. Auch im Reaktionsholz der Laubgehölze sind Jahrringe meist, aber nicht immer, breiter. Kaum Messwerte gibt es von den mechanischen Holzeigenschaften. Bei diesen deuten sich eine höhere Dichte und Steifigkeit an (RUELLE et al. 2007).
+Das Zugholz der Laubgehölze ist sehr viel variabler. Es ist ein spezialisiertes Gewebe, das diesen Bäumen ermöglicht, ihre Form durch die Krümmung bereits verholzter Teile zu verändern, und auch, eine Krümmung, z. B. durch das Eigengewicht von Ästen, zu verhindern. Es gibt jedoch große anatomische Unterschiede zwischen den Arten. Besonders deutlich wird dies durch das Fehlen oder Vorhandensein einer ausgeprägten G-Schicht. Auch im Reaktionsholz der Laubgehölze sind Jahrringe meist, aber nicht immer, breiter. Kaum Messwerte gibt es von den mechanischen Holzeigenschaften. Bei diesen deuten sich eine höhere Dichte und Steifigkeit an [@ruelleComparisonPhysicalMechanical2007].
 
 Über ein „Erschlaffen" solcher Strukturen ist kaum etwas bekannt, es scheint jedoch unwahrscheinlich. Soweit trägt die Analogie des Muskels dann doch nicht.
 
@@ -60,25 +75,19 @@ Die große Variabilität der mechanischen Eigenschaften des Holzes verschiedener
 
 Die äußere Form eines Baumes ist sicher die erste Eigenschaft, die einem Gutachter ins Auge fällt. Jedoch ändert sie sich in charakteristischer Weise, wenn die Bäume größer werden. Verglichen mit jungen Bäumen wirken alte oft plump, da sie im Verhältnis zu ihrer Höhe dick sind. Behielten Bäume im Laufe ihres Lebens ihre Form bei, so würde ihre Körpermasse schneller steigen als ihr Stammquerschnitt. Es ist daher schwierig, die Angemessenheit der Form eines Baumes zu beurteilen -- feste Grenzwerte, die zwischen sicher und unsicher trennen, müssen hier scheitern.
 
-Seit über 200 Jahren ist bekannt, dass Bäume mit ihrem Wachstum auf eine Vielzahl mechanischer Reize reagieren können. Ein Modell, das diese Wachstumsreaktion der Bäume auf den Reiz der Windlast beschreibt, ist die Hypothese der konstanten Spannung (METZGER 1893). Diese Hypothese geht davon aus, dass Bäume ihren Stamm einem Biegebalken gleich so gestalten, dass keine Sollbruchstellen entstehen. Obwohl die Ergebnisse vieler Untersuchungen der letzten 100 Jahre diese Hypothese nicht bestätigen konnten, hat sie immer noch zahlreiche Anhänger. Pflanzen messen allerdings nicht die Spannung im Kambium, sondern die Verformung (COUTAND et al. 2010). Nur wenn ein Defekt die Verformbarkeit des Stammes erhöht, kann dies auf diese Weise zu Anpassungen führen. Außerdem passen Bäume nicht nur ihre Form, sondern auch die Eigenschaften des neu angelegten Holzes an die mechanischen Belastungen an. An Buchen konnte gezeigt werden, dass diese nur auf Belastungen nahe des Primärversagens mit gesteigertem Dickenzuwachs regierten (Bonnesuer 2016).
+Seit über 200 Jahren ist bekannt, dass Bäume mit ihrem Wachstum auf eine Vielzahl mechanischer Reize reagieren können. Ein Modell, das diese Wachstumsreaktion der Bäume auf den Reiz der Windlast beschreibt, ist die Hypothese der konstanten Spannung [@Metzger1893]. Diese Hypothese geht davon aus, dass Bäume ihren Stamm einem Biegebalken gleich so gestalten, dass keine Sollbruchstellen entstehen. Obwohl die Ergebnisse vieler Untersuchungen der letzten 100 Jahre diese Hypothese nicht bestätigen konnten, hat sie immer noch zahlreiche Anhänger. Pflanzen messen allerdings nicht die Spannung im Kambium, sondern die Verformung [@coutandMechanosensingStemBending2010]. Nur wenn ein Defekt die Verformbarkeit des Stammes erhöht, kann dies auf diese Weise zu Anpassungen führen. Außerdem passen Bäume nicht nur ihre Form, sondern auch die Eigenschaften des neu angelegten Holzes an die mechanischen Belastungen an. An Buchen konnte gezeigt werden, dass diese nur auf Belastungen nahe des Primärversagens mit gesteigertem Dickenzuwachs regierten [@bonnesoeurForestTreesFilter2016].
 
-Das Wachstum von Bäumen als „spannungsgesteuert" zu bezeichnen (WÄLDCHEN 2005) entspricht also nicht dem aktuellen Stand des Wissens, auch wenn es anschaulich und plausibel erscheint.
+Das Wachstum von Bäumen als „spannungsgesteuert" zu bezeichnen [@waldchenSpannungsgesteuerteVerteilungDickenzuwachses2005] entspricht also nicht dem aktuellen Stand des Wissens, auch wenn es anschaulich und plausibel erscheint.
 
 ## Wasserleitung: Der Baumstamm als Wasserrohr
 
-Im Baumstamm müssen große Wassermengen entgegen der Schwerkraft bewegt werden. Bei großen Bäumen können dies mehrere hundert Liter an einem Tag sein (Abbildung 3). Wo Menschen zur Lösung dieser Aufgabe wohl Rohrleitungen verwenden würden, gibt es im Baumstamm nur feine Poren, die oft nicht einmal mit bloßem Auge sichtbar sind.
+Im Baumstamm müssen große Wassermengen entgegen der Schwerkraft bewegt werden. Bei großen Bäumen können dies mehrere hundert Liter an einem Tag sein [@fig-Kopinga]. Wo Menschen zur Lösung dieser Aufgabe wohl Rohrleitungen verwenden würden, gibt es im Baumstamm nur feine Poren, die oft nicht einmal mit bloßem Auge sichtbar sind.
 
-![](media/image3.png){width="5.905511811023622in" height="4.677165354330708in"}
+![Je größer der Baum (hier: seine Kronenprojektionsfläche), desto größer der Wasserbedarf und damit auch das erforderliche Bodenvolumen (RUST 2010.)](D:\Bilder\eigene_Graphiken\Kopinga.png){fig-alt="Wasserbedarf" #fig-Kopinga}
 
-**Abbildung 3:** Je größer der Baum (hier: seine Kronenprojektionsfläche), desto größer der Wasserbedarf und damit auch das erforderliche Bodenvolumen (RUST 2010.)
+Dies sind lang gestreckte, abgestorbene Zellen, deren Zellwand häufig durch Spiralen oder Ringe verstärkt ist, um unter dem starken Sog der Blätter nicht zu kollabieren. Der Innendurchmesser dieser Zellen beträgt bei Nadelbäumen bis zu 0,03 mm, bei zerstreutporigen bis zu 0,06 mm und bei ringporigen Baumarten bis zu 0,2 mm. Bei den ringporigen Baumarten, z. B. Eichen, Eschen, Ulmen, Robinie und Esskastanie, ist daher die Flussgeschwindigkeit deutlich höher, nämlich bis zu 40 m in einer Stunde, während es bei den Nadelbäumen nur bis zu 2 m je Stunde sind [@larcherOkophysiologiePflanzen1994]. In den über 100 m hohen Mammutbäumen Kaliforniens braucht das Wasser im Mittel 10 Tage von der Wurzel bis in die Krone.
 
-![Je größer der Baum (hier: seine Kronenprojektionsfläche), desto größer der Wasserbedarf und damit auch das erforderliche Bodenvolumen (RUST 2010.)](images/Abb3.svg){fig-alt="Wasserbedarf"}
-
-Dies sind lang gestreckte, abgestorbene Zellen, deren Zellwand häufig durch Spiralen oder Ringe verstärkt ist, um unter dem starken Sog der Blätter nicht zu kollabieren. Der Innendurchmesser dieser Zellen beträgt bei Nadelbäumen bis zu 0,03 mm, bei zerstreutporigen bis zu 0,06 mm und bei ringporigen Baumarten bis zu 0,2 mm. Bei den ringporigen Baumarten, z. B. Eichen, Eschen, Ulmen, Robinie und Esskastanie, ist daher die Flussgeschwindigkeit deutlich höher, nämlich bis zu 40 m in einer Stunde, während es bei den Nadelbäumen nur bis zu 2 m je Stunde sind (LARCHER 1994). In den über 100 m hohen Mammutbäumen Kaliforniens braucht das Wasser im Mittel 10 Tage von der Wurzel bis in die Krone.
-
-Den Wassertransport im Baum veranschaulicht man meist mit einer Analogie zum Ohm'schen Gesetz aus der Elektrizitätslehre, welches besagt, dass der Stromfluss durch einen Leiter umso größer ist, je größer die angelegte Spannung und die elektrische Leitfähigkeit des Leiters sind (GRADMANN 1928). Die Leitfähigkeit im Baum ist eine hydraulische, und anstelle des elektrischen Potenzials (Spannung) treiben Wasserpotenziale den Wasserfluss durch den Baum (Abbildung 4).
-
-![Wassertransport im Baum als Leitfähigkeiten (K, g) und Wasserpotentiale (Ψ) (RUST 2013).](images/Abb4.png){fig-alt="Stromkreisanalogie"}
+Den Wassertransport im Baum veranschaulicht man meist mit einer Analogie zum Ohm'schen Gesetz aus der Elektrizitätslehre (s. @sec-Wassertransport).
 
 Während der Vegetationsperiode herrscht im Splintholz ein beachtlicher Unterdruck. Deshalb führen Verletzungen dazu, dass Luft in das Holz gesogen wird. Wo dies passiert, kann kein Wasser mehr geleitet werden und der Baum gibt solche Bereiche in der Regel auf und schottet sie ab. Oft werden sie dann von Fäuleerregern befallen.
 
@@ -98,7 +107,7 @@ Prinzipiell sind hohe Zuwachsraten (und damit verbunden breite Jahrringe) ein Ze
 
 Da jede Bohrung die Gefahr erhöht, dass der Baum von fäuleerregenden Pilzen befallen wird, und ihre Ergebnisse nur wenig zusätzliche Informationen über den Zustand des Baumes erbringen, sollten sie grundsätzlich vermieden werden. Auch punktuelle Messungen der Holzfestigkeit an solchen Bohrspänen tragen wenig zur Beurteilung der Bruchsicherheit eines Baumes bei.
 
-Anders sieht es z. B. aus, wenn ein konkretes Schadereignis (Baumaßnahmen, Grundwasserabsenkung) datiert werden soll, oder man feststellen muss, wie oft ein Gehölz verschult wurde. Hier sind Jahrringanalysen sehr gut geeignet (BONN 2013).
+Anders sieht es z. B. aus, wenn ein konkretes Schadereignis (Baumaßnahmen, Grundwasserabsenkung) datiert werden soll, oder man feststellen muss, wie oft ein Gehölz verschult wurde. Hier sind Jahrringanalysen sehr gut geeignet [@roloffHolzJahrringeUnd2019].
 
 ## Schlussfolgerungen
 

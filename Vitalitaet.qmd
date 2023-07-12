@@ -1,6 +1,6 @@
-## Vitalitätsbeurteilung
+# Vitalitätsbeurteilung
 
-### Einleitung
+## Einleitung
 
 Mindestens seit den 1970er Jahren wurden Methoden zur Einschätzung der
 Vitalität von Bäumen in Wäldern, aber auch in Städten, entwickelt. Sie
@@ -60,7 +60,7 @@ Unter Berücksichtigung aller genannten Merkmale wird abschließend für
 jeden Baum eine Vitalitätsstufe zwischen 0 (vital) und 3 (abgängiger
 Baum) festgelegt. Dazu werden die Teilergebnisse nicht verrechnet.
 
-### Grundlagen
+## Grundlagen
 
 In der Baumpflege sollen Vitalitätsmaße Entscheidungen unterstützen, z. B. als
 Indikatoren für die Beurteilung der Reststandzeit, die Reaktion des
@@ -69,7 +69,7 @@ Eingriffen. Missbräuchlich wird das Maß der Vitalität gelegentlich auch als
 Indikator für die Verkehrssicherheit verwendet, oft auch direkt mit
 dem Gesundheitszustand gleichgesetzt.
 
-#### Vitalität
+### Vitalität
 
 Die Lebenstüchtigkeit oder Vitalität eines Organismus äußert sich in einer
 Vielzahl von Eigenschaften, von denen wir bei Bäumen in der Stadt nur
@@ -141,7 +141,7 @@ Der Einsatz von Laserscannern eröffnet in den letzten Jahren neue Möglichkeite
 von Parametern, die mit der Vitalität in Zusammenhang stehen. So können z. B. die Blattfläche 
 und die Kronenstruktur zerstörungsfrei und mit geringem Aufwand erfasst werden.
 
-#### Zusammenhang mit Zielgrößen: Was sagen Vitalitätsstufen aus?
+### Zusammenhang mit Zielgrößen: Was sagen Vitalitätsstufen aus?
 
 Grundlage einer jeden Vitalitätsbeurteilung sollten Muster sein,
 anhand derer Bäume auf der Basis wissenschaftlich abgesicherter
@@ -179,7 +179,7 @@ deren Einschätzung Maßnahmen abgeleitet werden. Man sollte daher
 erwarten, dass umfangreiche Studien über Zusammenhänge zwischen der
 Einschätzung der Vitalität und solchen Zielgrößen vorhanden sind.
 
-##### Wachstum
+#### Wachstum
 Die Lebensfähigkeit sollte am Wachstum eines Baumes besonders deutlich
 erkennbar sein. Wachstumsbeschreibende Messgrößen sind u. a.:
 
@@ -209,13 +209,13 @@ Hypothesen, die diese Ergebnisse erklären [@Roloff2018], jedoch ist
 bisher nicht geklärt, wie die unterschiedlichen Zuwächse der Triebe
 und des Stammes vom Baumgutachter zu bewerten sind.
 
-##### Belaubung
+#### Belaubung
 
 Die Belaubung eines Baumes wird oft anhand der Kronentransparenz und
 der Blattgröße und -farbe beurteilt. Dies ist bei laubwerfenden
 Baumarten natürlich nur in der Vegetationsperiode möglich.
 
-###### Kronenverlichtung oder -transparenz
+##### Kronenverlichtung oder -transparenz
 
 Die Kronenverlichtung korreliert mit der Kronenarchitektur
 [@Eichhorn2013] und mit der Mortalität und dem Zuwachs
@@ -226,7 +226,7 @@ zusammenhing. Zu beachten ist, dass die Kronenverlichtung generell mit
 dem Alter eines Baumes zunimmt [@Musio2007] und auch kurzfristig von
 Trockenheit oder Mastjahren beeinflusst wird.
 
-###### Blattgröße und -farbe
+##### Blattgröße und -farbe
 
 Auch die Blattgröße und -farbe können von ganz unterschiedlichen
 Faktoren beeinflusst werden, die für den Sachverständigen oft nicht
@@ -323,7 +323,7 @@ Reiterate mehrere Jahrzehnte alt sein, ohne das dies vom Stammfuß aus
 zu erkennen ist, und so über den aktuellen Zustand des Baumes hinweg täuschen. 
 
 
-### Diskussion
+## Diskussion
 
 Mit der Vitalität eines Baumes bewerten wir die Gestalt eines Baumes als
 Ausdruck seiner Reaktionsfähigkeit auf Umwelteinflüsse in der

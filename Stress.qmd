@@ -14,7 +14,13 @@ Das biologische Stresskonzept beschreibt die Reaktionen eines Organismus, wenn e
 
 Die Einwirkung von Stressoren löst stressorspezifische und unspezifische Reaktionen aus. Unspezifisch sind solche Vorgänge, die unabhängig von der Art des Stressfaktors immer in gleicher Weise ablaufen. Die Abfolge dieser unspezifischen Vorgänge kann, stark vereinfacht, durch vier Phasen beschrieben werden (Abb. 2.42, Larcher 2001): Alarmphase -- Nach Einsetzen einer Störung kommt es zu einer Destabilisierung der normalen Lebenstätigkeit. Eine zu schnelle Steigerung der Belastung führt zum Zusammenbruch, bevor Abwehrmaßnahmen ergriffen werden können. Sonst werden Schutz- und Reparaturprozesse eingeleitet (Restitution). Widerstandsphase -- Bei anhaltender Belastung kann durch Anpassungsvorgänge zunächst das Normalverhalten wieder hergestellt und dann die Widerstandskraft gesteigert werden (Abhärtung). Trotz anhaltender Belastung kann eine Normalisierung erreicht werden. Nach dem Nachlassen der Störung kann die Widerstandskraft eine Zeit lang erhöht bleiben. Erschöpfungsphase -- Nach Überforderung des Anpassungsvermögens durch zu lange Beanspruchungsdauer kann es zum Zusammenbruch kommen. Die Pflanze ist in dieser Phase auch gegen andere Stressoren anfälliger, z. B. Schwächeparasiten. Regenerationsphase -- Auch aus der Erschöpfungsphase kann die Pflanze noch zur Ausgangslage zurückkehren, wenn der Belastungszustand aufgehoben wird.
 
-![Phasenmodell des Stressgeschehens (nach LARCHER 2001).](images/Stresskonzept.svg)
+```{r, engine = 'tikz'}
+#| fig-cap: "Phasenmodell des Stressgeschehens (nach LARCHER 2001)."
+#| fig-alt: "Stresskonzept"
+#| echo: false
+\input{D:/Bilder/eigene_Graphiken/Stresskonzept.tikz}
+```
+
 
 Stress ist demnach ein Beanspruchungszustand des Organismus, der zunächst Destabilisierung, dann Normalisierung und Resistenzsteigerung bewirkt und der bei Überschreitung der Anpassungsamplitude zu Funktionsausfällen und zum Tod führen kann. Dabei muss Stress nicht immer negativ sein, sondern kann auch dazu führen, dass ein Baum an zukünftige Belastungen besser angepasst ist (Eustress im Gegensatz zu Distress). Diese Abhärtung wirkt manchmal nicht nur gegen den Umweltfaktor, der sie ursprünglich ausgelöst hat, sondern auch andere, ein Phänomen, das als „cross-protection" bezeichnet wird (Schulze et al. 2002).
 
