@@ -16,14 +16,26 @@ book:
     - references.qmd
 
 bibliography: ["d:/users/Steffen/Documents/Literatur/BiBTeX/Alles.bib", "d:/users/Steffen/Documents/Literatur/BiBTeX/Zotero.bib"]
+csl: C:/Users/srust/Zotero/styles/iso690-author-date-de.csl
 lang: de
 
 format:
   html:
     theme: cosmo
   pdf:
+    cite-method: biblatex
+    biblatexoptions:
+      - backend=biber
+      - sortcites=true
+      - sorting=ydnt
+      - giveninits=true
+      - terseinits=true
+      - maxcitenames=2
+      - doi=false
+      - url=false
+      - isbn=false
     papersize: a4
-    keep-tex: true
+    keep-tex: false
 
 
 

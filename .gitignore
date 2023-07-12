@@ -10,4 +10,5 @@ images
 _book
 site_libs
 *.html
-Angewandte-Baumbiologie.te
+Angewandte-Baumbiologie.tex
+*_files

@@ -88,7 +88,7 @@ insbesondere in
 - Wachstum, Kronenstruktur und Zustand der Belaubung
 - der Anpassungsfähigkeit an die Umwelt
 - der Widerstandsfähigkeit gegen Krankheiten und Schädlinge
-- der Regenerationsfähigkeit." [@FLL2017]
+- der Regenerationsfähigkeit." [@ZTV]
 
 Hierbei ist der Begriff "Gesundheitszustand" durchaus problematisch,
 da er, wie die Fortsetzung des Satzes deutlich macht, anders
